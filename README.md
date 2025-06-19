@@ -53,6 +53,12 @@ docker multi-arch 本项目通过 Docker 组合了多架构的节点处理,去�
 # 注意
 修改并发要小心，不论是 cfnat subs-check 还是 cfdata 并发数过高，本地运营商就会临时给你断个网，并发数尽可能保守比如100M宽带就设置为2吧，太高没意义
 
+## 许可证
+本项目采用 [MIT License](LICENSE) 许可。
+
+## 联系与反馈
+遇到问题或有改进建议，请在 [issues](https://github.com/469138946ba5fa/docker-arch-subs/issues) 中提出，或直接联系项目维护者。
+
 # 参考
 [cmliu 定制汇聚订阅项目](https://github.com/cmliu/CF-Workers-SUB)  
 [cmliu 搜索TLS站点博文](https://cmliussss.com/p/BPBbug/)  
@@ -66,3 +72,6 @@ docker multi-arch 本项目通过 Docker 组合了多架构的节点处理,去�
 [hub.docker.com asdlokj1qpi23/subconverter](https://hub.docker.com/r/asdlokj1qpi23/subconverter)  
 [hub.docker.com stilleshan/subconverter](https://hub.docker.com/r/stilleshan/subconverter)  
 [hub.docker.com tindy2013/subconverter](https://hub.docker.com/r/tindy2013/subconverter)  
+
+## 声明
+本项目仅作学习交流使用，学习各种姿势，不做任何违法行为。仅供交流学习使用，出现违法问题我负责不了，我也没能力负责，我没工作，也没收入，年纪也大了，就算灭了我也没用，我也没能力负责。
