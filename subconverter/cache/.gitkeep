@@ -1,0 +1,2 @@
+# 此文件用于确保 Git 保留空目录
+# 目录用途：subconverter docker 容器 /base/cache 缓存目录映射

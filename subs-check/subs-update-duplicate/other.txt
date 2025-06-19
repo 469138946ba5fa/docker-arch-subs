@@ -1,0 +1,1 @@
+trojan://6666@6666:6666?security=tls&type=ws&host=6666&path=6666#6666

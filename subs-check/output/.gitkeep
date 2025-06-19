@@ -1,0 +1,2 @@
+# 此文件用于确保 Git 保留空目录
+# 目录用途：subs-check docker 容器 /app/output 缓存目录映射

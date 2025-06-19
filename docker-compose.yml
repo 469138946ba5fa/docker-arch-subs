@@ -1,0 +1,136 @@
+services:
+  subconverter_service:                           # 节点转换后端
+    platform: ${PLATFORM}                         # 平台架构，来自 .env
+    container_name: ${CONTAINER_SUBCONVERTER}     # 容器名称，来自 .env
+    environment:                                  # 环境变量，来自 .env
+      - TZ=${TZ}
+      - HTTP_PROXY=${PROXY_HTTP}
+      - HTTPS_PROXY=${PROXY_HTTPS}
+      - ALL_PROXY=${PROXY_ALL}
+      - NO_PROXY=${PROXY_NO}
+      - http_proxy=${PROXY_HTTP}
+      - https_proxy=${PROXY_HTTPS}
+      - all_proxy=${PROXY_ALL}
+      - no_proxy=${PROXY_NO}
+    image: ${IMAGE_SUBCONVERTER}                  # 镜像名称，来自 .env
+    ports:                                        # 端口映射，来自 .env
+      - ${SUBCONVERTER_PORT}
+    privileged: ${PRIVILEGED}                     # 特权模式，来自 .env
+    restart: ${RESTART_POLICY}                    # 重启策略，来自 .env
+    logging:                                      # 日志配置，来自 .env
+      driver: ${LOGGING_DRIVER}
+      options:
+        max-size: ${LOG_MAX_SIZE}
+    tty: ${TTY}                                   # 终端模拟，来自 .env
+    mem_limit: ${MEM_LIMIT}                       # 内存限制，来自 .env
+    cpus: ${CPU_LIMIT}                            # CPU 使用限制，来自 .env
+    volumes:                                      # subconverter 挂载路径，来自 .env
+      - ${SUBCONVERTER_CACHE}
+      - ${TZ_VOLUME}
+    networks:
+      - network
+  subweb_service:                                 # 节点转换前端
+    platform: ${PLATFORM}                         # 平台架构，来自 .env
+    container_name: ${CONTAINER_SUBWEB}           # 容器名称，来自 .env
+    environment:                                  # 环境变量，来自 .env
+      - TZ=${TZ}
+      - HTTP_PROXY=${PROXY_HTTP}
+      - HTTPS_PROXY=${PROXY_HTTPS}
+      - ALL_PROXY=${PROXY_ALL}
+      - NO_PROXY=${PROXY_NO}
+      - http_proxy=${PROXY_HTTP}
+      - https_proxy=${PROXY_HTTPS}
+      - all_proxy=${PROXY_ALL}
+      - no_proxy=${PROXY_NO}
+    image: ${IMAGE_SUBWEB}                        # 镜像名称，来自 .env
+    ports:                                        # 端口映射，来自 .env
+      - ${SUBWEB_PORT}
+    privileged: ${PRIVILEGED}                     # 特权模式，来自 .env
+    restart: ${RESTART_POLICY}                    # 重启策略，来自 .env
+    logging:                                      # 日志配置，来自 .env
+      driver: ${LOGGING_DRIVER}
+      options:
+        max-size: ${LOG_MAX_SIZE}
+    tty: ${TTY}                                   # 终端模拟，来自 .env
+    mem_limit: ${MEM_LIMIT}                       # 内存限制，来自 .env
+    cpus: ${CPU_LIMIT}                            # CPU 使用限制，来自 .env
+    volumes:
+      - ${TZ_VOLUME}
+    networks:
+      - network
+  cfnat_service:                                  # 优选ip
+    platform: ${PLATFORM}                         # 平台架构，来自 .env
+    container_name: ${CONTAINER_CFNAT}            # 容器名称，来自 .env
+    environment:                                  # 环境变量，来自 .env
+      - TZ=${TZ}
+      - colo=${COLO}
+      - delay=${DELAY}
+      - ips=${IPS}
+      - port=${PORT}
+      - tls=${TLS}
+      - random=${RANDOM}
+      - ipnum=${IPNUM}
+      - num=${NUM}
+      - task=${TASK}
+      - code=${CODE}
+      - domain=${DOMAIN}
+      #- HTTP_PROXY=${PROXY_HTTP}
+      #- HTTPS_PROXY=${PROXY_HTTPS}
+      #- ALL_PROXY=${PROXY_ALL}
+      #- NO_PROXY=${PROXY_NO}
+      #- http_proxy=${PROXY_HTTP}
+      #- https_proxy=${PROXY_HTTPS}
+      #- all_proxy=${PROXY_ALL}
+      #- no_proxy=${PROXY_NO}
+    image: ${IMAGE_CFNAT}                         # 镜像名称，来自 .env
+    ports:                                        # 端口映射，来自 .env
+      - ${CFNAT_PORT}
+    privileged: ${PRIVILEGED}                     # 特权模式，来自 .env
+    restart: ${RESTART_POLICY}                    # 重启策略，来自 .env
+    logging:                                      # 日志配置，来自 .env
+      driver: ${LOGGING_DRIVER}
+      options:
+        max-size: ${LOG_MAX_SIZE}
+    tty: ${TTY}                                   # 终端模拟，来自 .env
+    mem_limit: ${MEM_LIMIT}                       # 内存限制，来自 .env
+    cpus: ${CPU_LIMIT}                            # CPU 使用限制，来自 .env
+    volumes:
+      - ${TZ_VOLUME}
+    networks:
+      - network
+  subs_check_service:                             # 节点测速
+    platform: ${PLATFORM}                         # 平台架构，来自 .env
+    container_name: ${CONTAINER_SUBS_CHECK}       # 容器名称，来自 .env
+    environment:                                  # 环境变量，来自 .env
+      - TZ=${TZ}
+      - HTTP_PROXY=${PROXY_HTTP}
+      - HTTPS_PROXY=${PROXY_HTTPS}
+      - ALL_PROXY=${PROXY_ALL}
+      - NO_PROXY=${PROXY_NO}
+      - http_proxy=${PROXY_HTTP}
+      - https_proxy=${PROXY_HTTPS}
+      - all_proxy=${PROXY_ALL}
+      - no_proxy=${PROXY_NO}
+    image: ${IMAGE_SUBS_CHECK}                    # 镜像名称，来自 .env
+    ports:                                        # 端口映射，来自 .env
+      - ${SUBS_CHECK_PORT}
+      - ${SUBS_CHECK_ALT_PORT}
+    privileged: ${PRIVILEGED}                     # 特权模式，来自 .env
+    restart: ${RESTART_POLICY}                    # 重启策略，来自 .env
+    logging:                                      # 日志配置，来自 .env
+      driver: ${LOGGING_DRIVER}
+      options:
+        max-size: ${LOG_MAX_SIZE}
+    tty: ${TTY}                                   # 终端模拟，来自 .env
+    mem_limit: ${SUBS_CHECK_MEM_LIMIT}            # 内存限制，来自 .env
+    cpus: ${CPU_LIMIT}                            # CPU 使用限制，来自 .env
+    volumes:                                      # 挂载路径，来自 .env
+      - ${SUBS_CHECK_CONFIG}
+      - ${SUBS_CHECK_OUTPUT}
+      - ${TZ_VOLUME}
+    networks:
+      - network
+
+networks:
+  network:
+    driver: ${NETWORK_TYPE}                       # 网络配置，来自 .env

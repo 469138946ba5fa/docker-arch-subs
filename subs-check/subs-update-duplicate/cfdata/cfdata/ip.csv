@@ -1,0 +1,2380 @@
+IP地址,数据中心,地区,城市,网络延迟
+104.27.45.120,FRA,Europe,Frankfurt,165 ms
+104.27.80.249,FRA,Europe,Frankfurt,166 ms
+104.25.41.176,FRA,Europe,Frankfurt,167 ms
+104.25.238.218,FRA,Europe,Frankfurt,167 ms
+172.67.28.225,FRA,Europe,Frankfurt,168 ms
+104.24.160.127,FRA,Europe,Frankfurt,168 ms
+104.24.133.165,FRA,Europe,Frankfurt,169 ms
+104.25.231.174,FRA,Europe,Frankfurt,169 ms
+104.25.224.153,FRA,Europe,Frankfurt,169 ms
+104.27.60.111,FRA,Europe,Frankfurt,169 ms
+172.67.54.39,FRA,Europe,Frankfurt,169 ms
+104.26.8.99,FRA,Europe,Frankfurt,169 ms
+172.67.56.164,FRA,Europe,Frankfurt,169 ms
+104.22.77.152,FRA,Europe,Frankfurt,169 ms
+104.20.13.74,FRA,Europe,Frankfurt,170 ms
+104.27.114.104,FRA,Europe,Frankfurt,170 ms
+104.24.148.144,FRA,Europe,Frankfurt,170 ms
+104.24.250.33,FRA,Europe,Frankfurt,170 ms
+104.24.161.76,FRA,Europe,Frankfurt,171 ms
+172.67.79.50,FRA,Europe,Frankfurt,171 ms
+104.27.101.85,FRA,Europe,Frankfurt,171 ms
+104.25.133.55,FRA,Europe,Frankfurt,172 ms
+172.67.15.205,FRA,Europe,Frankfurt,172 ms
+104.25.138.180,FRA,Europe,Frankfurt,173 ms
+104.27.38.185,FRA,Europe,Frankfurt,173 ms
+104.25.29.33,FRA,Europe,Frankfurt,173 ms
+104.25.250.100,FRA,Europe,Frankfurt,174 ms
+104.26.15.79,FRA,Europe,Frankfurt,174 ms
+104.22.70.84,FRA,Europe,Frankfurt,174 ms
+104.25.195.68,FRA,Europe,Frankfurt,174 ms
+172.67.80.164,FRA,Europe,Frankfurt,174 ms
+172.67.63.204,FRA,Europe,Frankfurt,174 ms
+104.24.170.28,FRA,Europe,Frankfurt,174 ms
+104.24.175.18,FRA,Europe,Frankfurt,174 ms
+104.24.130.141,FRA,Europe,Frankfurt,174 ms
+104.24.147.40,FRA,Europe,Frankfurt,175 ms
+104.24.155.88,FRA,Europe,Frankfurt,175 ms
+104.26.9.106,FRA,Europe,Frankfurt,175 ms
+104.27.49.211,FRA,Europe,Frankfurt,175 ms
+104.25.205.14,FRA,Europe,Frankfurt,175 ms
+104.27.51.116,FRA,Europe,Frankfurt,175 ms
+104.27.206.228,FRA,Europe,Frankfurt,175 ms
+172.64.149.216,SJC,North America,San Jose,175 ms
+104.19.81.53,SJC,North America,San Jose,175 ms
+104.27.28.7,FRA,Europe,Frankfurt,175 ms
+104.27.55.47,FRA,Europe,Frankfurt,176 ms
+104.17.34.40,SJC,North America,San Jose,176 ms
+104.19.163.193,SJC,North America,San Jose,176 ms
+104.22.21.188,FRA,Europe,Frankfurt,176 ms
+172.64.147.111,SJC,North America,San Jose,176 ms
+104.27.73.223,FRA,Europe,Frankfurt,176 ms
+104.24.183.254,FRA,Europe,Frankfurt,176 ms
+104.25.222.186,FRA,Europe,Frankfurt,176 ms
+104.19.234.224,SJC,North America,San Jose,176 ms
+104.24.217.247,FRA,Europe,Frankfurt,176 ms
+162.159.128.60,FRA,Europe,Frankfurt,176 ms
+104.24.28.57,FRA,Europe,Frankfurt,176 ms
+104.25.142.31,FRA,Europe,Frankfurt,176 ms
+104.22.20.236,FRA,Europe,Frankfurt,176 ms
+104.19.239.45,SJC,North America,San Jose,176 ms
+104.25.56.199,FRA,Europe,Frankfurt,176 ms
+104.25.17.163,FRA,Europe,Frankfurt,176 ms
+172.64.92.79,SJC,North America,San Jose,176 ms
+172.67.81.240,FRA,Europe,Frankfurt,176 ms
+162.159.11.187,SJC,North America,San Jose,176 ms
+172.67.33.120,FRA,Europe,Frankfurt,176 ms
+104.17.5.26,SJC,North America,San Jose,176 ms
+104.27.54.46,FRA,Europe,Frankfurt,177 ms
+190.93.245.101,SJC,North America,San Jose,177 ms
+172.64.96.209,AUS,North America,Austin,177 ms
+198.41.201.74,SJC,North America,San Jose,177 ms
+104.19.111.122,SJC,North America,San Jose,177 ms
+104.25.112.20,FRA,Europe,Frankfurt,177 ms
+104.27.104.106,FRA,Europe,Frankfurt,177 ms
+172.64.83.166,SJC,North America,San Jose,177 ms
+104.18.254.143,SJC,North America,San Jose,177 ms
+172.67.17.75,FRA,Europe,Frankfurt,177 ms
+162.159.130.108,FRA,Europe,Frankfurt,178 ms
+104.19.72.208,SJC,North America,San Jose,178 ms
+104.17.154.189,SJC,North America,San Jose,178 ms
+104.17.111.53,SJC,North America,San Jose,178 ms
+104.19.32.253,SJC,North America,San Jose,178 ms
+104.22.40.191,FRA,Europe,Frankfurt,178 ms
+104.24.252.4,FRA,Europe,Frankfurt,178 ms
+104.19.127.76,SJC,North America,San Jose,178 ms
+104.19.68.66,SJC,North America,San Jose,178 ms
+104.19.167.106,SJC,North America,San Jose,178 ms
+104.22.30.201,FRA,Europe,Frankfurt,178 ms
+104.19.93.189,SJC,North America,San Jose,178 ms
+172.65.228.155,FRA,Europe,Frankfurt,178 ms
+104.17.164.87,SJC,North America,San Jose,178 ms
+104.23.105.243,FRA,Europe,Frankfurt,178 ms
+104.19.199.217,SJC,North America,San Jose,178 ms
+104.19.11.116,SJC,North America,San Jose,178 ms
+104.24.84.101,FRA,Europe,Frankfurt,178 ms
+104.22.53.142,FRA,Europe,Frankfurt,178 ms
+104.18.82.33,SJC,North America,San Jose,178 ms
+172.67.16.236,FRA,Europe,Frankfurt,178 ms
+104.25.134.69,FRA,Europe,Frankfurt,179 ms
+104.27.39.161,FRA,Europe,Frankfurt,179 ms
+104.24.141.144,FRA,Europe,Frankfurt,179 ms
+162.159.12.82,SJC,North America,San Jose,179 ms
+104.24.17.243,FRA,Europe,Frankfurt,179 ms
+104.18.237.225,SJC,North America,San Jose,179 ms
+104.18.98.41,SJC,North America,San Jose,179 ms
+172.64.87.135,SJC,North America,San Jose,179 ms
+104.27.119.107,FRA,Europe,Frankfurt,179 ms
+104.25.137.127,FRA,Europe,Frankfurt,179 ms
+104.24.206.103,FRA,Europe,Frankfurt,179 ms
+104.19.218.63,SJC,North America,San Jose,179 ms
+104.25.240.163,FRA,Europe,Frankfurt,179 ms
+104.19.86.149,SJC,North America,San Jose,179 ms
+104.25.170.87,FRA,Europe,Frankfurt,179 ms
+172.67.86.141,FRA,Europe,Frankfurt,179 ms
+104.24.190.13,FRA,Europe,Frankfurt,179 ms
+104.18.104.155,SJC,North America,San Jose,179 ms
+104.25.248.243,FRA,Europe,Frankfurt,179 ms
+104.26.10.245,FRA,Europe,Frankfurt,179 ms
+104.18.251.105,SJC,North America,San Jose,179 ms
+104.18.74.207,SJC,North America,San Jose,179 ms
+104.22.76.103,FRA,Europe,Frankfurt,180 ms
+172.67.100.12,FRA,Europe,Frankfurt,180 ms
+104.19.179.198,SJC,North America,San Jose,180 ms
+172.64.41.54,SJC,North America,San Jose,180 ms
+104.18.101.12,SJC,North America,San Jose,180 ms
+162.159.196.66,FRA,Europe,Frankfurt,180 ms
+104.19.175.129,SJC,North America,San Jose,180 ms
+104.19.56.87,SJC,North America,San Jose,180 ms
+162.159.153.56,FRA,Europe,Frankfurt,180 ms
+104.18.255.159,SJC,North America,San Jose,180 ms
+104.19.161.85,SJC,North America,San Jose,180 ms
+104.25.189.10,FRA,Europe,Frankfurt,180 ms
+172.67.125.32,FRA,Europe,Frankfurt,180 ms
+104.16.129.133,SJC,North America,San Jose,180 ms
+141.101.120.225,SJC,North America,San Jose,180 ms
+172.67.18.64,FRA,Europe,Frankfurt,180 ms
+104.19.145.119,SJC,North America,San Jose,180 ms
+104.25.161.88,FRA,Europe,Frankfurt,180 ms
+104.25.54.186,FRA,Europe,Frankfurt,180 ms
+104.22.68.72,FRA,Europe,Frankfurt,180 ms
+104.24.182.245,FRA,Europe,Frankfurt,180 ms
+104.25.97.44,FRA,Europe,Frankfurt,180 ms
+104.18.90.198,SJC,North America,San Jose,180 ms
+162.159.41.48,SJC,North America,San Jose,180 ms
+104.17.22.190,SJC,North America,San Jose,180 ms
+104.18.200.214,SJC,North America,San Jose,181 ms
+104.23.111.124,FRA,Europe,Frankfurt,181 ms
+104.27.42.62,FRA,Europe,Frankfurt,181 ms
+104.16.63.227,SJC,North America,San Jose,181 ms
+104.27.116.159,FRA,Europe,Frankfurt,181 ms
+104.20.3.60,FRA,Europe,Frankfurt,181 ms
+172.66.47.119,SJC,North America,San Jose,181 ms
+104.24.31.14,FRA,Europe,Frankfurt,181 ms
+104.18.100.217,SJC,North America,San Jose,181 ms
+104.18.250.136,SJC,North America,San Jose,181 ms
+104.18.60.178,SJC,North America,San Jose,181 ms
+104.20.11.119,FRA,Europe,Frankfurt,181 ms
+172.64.90.51,SJC,North America,San Jose,181 ms
+104.16.44.10,SJC,North America,San Jose,181 ms
+104.20.9.46,FRA,Europe,Frankfurt,181 ms
+104.24.235.36,FRA,Europe,Frankfurt,181 ms
+104.25.119.153,FRA,Europe,Frankfurt,181 ms
+104.25.21.150,FRA,Europe,Frankfurt,181 ms
+104.22.12.249,FRA,Europe,Frankfurt,181 ms
+172.67.118.165,FRA,Europe,Frankfurt,181 ms
+104.25.162.158,FRA,Europe,Frankfurt,181 ms
+104.22.67.111,FRA,Europe,Frankfurt,181 ms
+104.25.223.153,FRA,Europe,Frankfurt,182 ms
+104.27.88.169,FRA,Europe,Frankfurt,182 ms
+104.17.36.194,SJC,North America,San Jose,182 ms
+104.23.127.124,FRA,Europe,Frankfurt,182 ms
+104.27.69.225,FRA,Europe,Frankfurt,182 ms
+104.25.113.102,FRA,Europe,Frankfurt,182 ms
+104.19.105.41,SJC,North America,San Jose,182 ms
+104.18.48.204,SJC,North America,San Jose,182 ms
+172.66.0.245,SJC,North America,San Jose,182 ms
+162.159.17.44,SJC,North America,San Jose,182 ms
+104.27.63.233,FRA,Europe,Frankfurt,182 ms
+172.64.69.124,FRA,Europe,Frankfurt,182 ms
+172.67.103.4,FRA,Europe,Frankfurt,182 ms
+104.24.177.98,FRA,Europe,Frankfurt,182 ms
+104.24.62.96,FRA,Europe,Frankfurt,182 ms
+104.18.135.50,SJC,North America,San Jose,182 ms
+104.25.86.246,FRA,Europe,Frankfurt,182 ms
+104.19.146.30,SJC,North America,San Jose,182 ms
+104.23.119.19,FRA,Europe,Frankfurt,182 ms
+172.67.57.84,FRA,Europe,Frankfurt,182 ms
+104.18.53.230,SJC,North America,San Jose,182 ms
+104.18.86.235,SJC,North America,San Jose,182 ms
+104.22.0.55,FRA,Europe,Frankfurt,183 ms
+104.24.219.58,FRA,Europe,Frankfurt,183 ms
+104.18.54.135,SJC,North America,San Jose,183 ms
+172.67.73.45,FRA,Europe,Frankfurt,183 ms
+104.25.31.236,FRA,Europe,Frankfurt,183 ms
+172.67.4.137,FRA,Europe,Frankfurt,183 ms
+104.25.20.95,FRA,Europe,Frankfurt,183 ms
+104.25.216.66,FRA,Europe,Frankfurt,183 ms
+104.19.126.225,SJC,North America,San Jose,183 ms
+104.25.163.254,FRA,Europe,Frankfurt,183 ms
+172.67.24.172,FRA,Europe,Frankfurt,183 ms
+172.67.36.66,FRA,Europe,Frankfurt,183 ms
+104.17.246.31,SJC,North America,San Jose,183 ms
+172.64.84.4,SJC,North America,San Jose,183 ms
+172.64.80.126,SJC,North America,San Jose,183 ms
+104.19.116.123,SJC,North America,San Jose,183 ms
+108.162.194.132,SJC,North America,San Jose,183 ms
+104.25.232.72,FRA,Europe,Frankfurt,183 ms
+104.22.60.180,FRA,Europe,Frankfurt,183 ms
+162.159.21.59,SJC,North America,San Jose,183 ms
+104.24.93.212,FRA,Europe,Frankfurt,183 ms
+162.159.152.142,FRA,Europe,Frankfurt,183 ms
+104.19.23.29,SJC,North America,San Jose,183 ms
+104.25.127.4,FRA,Europe,Frankfurt,183 ms
+104.24.165.157,FRA,Europe,Frankfurt,184 ms
+104.25.218.227,FRA,Europe,Frankfurt,184 ms
+104.24.184.157,FRA,Europe,Frankfurt,184 ms
+172.64.152.186,SJC,North America,San Jose,184 ms
+104.27.2.229,FRA,Europe,Frankfurt,184 ms
+104.16.149.223,SJC,North America,San Jose,184 ms
+104.25.156.20,FRA,Europe,Frankfurt,184 ms
+104.22.51.48,FRA,Europe,Frankfurt,184 ms
+104.18.197.176,SJC,North America,San Jose,184 ms
+141.101.122.14,SJC,North America,San Jose,184 ms
+162.159.133.78,FRA,Europe,Frankfurt,184 ms
+172.67.113.207,FRA,Europe,Frankfurt,184 ms
+172.67.101.252,FRA,Europe,Frankfurt,184 ms
+104.25.37.219,FRA,Europe,Frankfurt,184 ms
+172.64.156.104,SJC,North America,San Jose,184 ms
+104.18.206.48,SJC,North America,San Jose,184 ms
+104.25.254.189,FRA,Europe,Frankfurt,184 ms
+104.27.18.85,FRA,Europe,Frankfurt,184 ms
+104.18.164.3,SJC,North America,San Jose,184 ms
+104.18.194.147,SJC,North America,San Jose,184 ms
+162.159.213.19,AUS,North America,Austin,184 ms
+104.27.76.64,FRA,Europe,Frankfurt,184 ms
+172.67.31.205,FRA,Europe,Frankfurt,184 ms
+172.64.67.7,SJC,North America,San Jose,184 ms
+104.26.5.122,FRA,Europe,Frankfurt,184 ms
+104.19.39.216,SJC,North America,San Jose,184 ms
+104.24.243.121,FRA,Europe,Frankfurt,184 ms
+172.67.60.231,FRA,Europe,Frankfurt,184 ms
+172.67.8.198,FRA,Europe,Frankfurt,184 ms
+198.41.211.125,FRA,Europe,Frankfurt,184 ms
+104.23.136.60,FRA,Europe,Frankfurt,184 ms
+172.67.45.176,FRA,Europe,Frankfurt,184 ms
+104.23.129.78,FRA,Europe,Frankfurt,184 ms
+104.27.121.120,FRA,Europe,Frankfurt,184 ms
+104.25.229.211,FRA,Europe,Frankfurt,185 ms
+162.159.42.194,FRA,Europe,Frankfurt,185 ms
+190.93.244.213,SJC,North America,San Jose,185 ms
+104.19.10.107,SJC,North America,San Jose,185 ms
+104.18.1.131,SJC,North America,San Jose,185 ms
+162.159.14.71,SJC,North America,San Jose,185 ms
+104.24.78.129,FRA,Europe,Frankfurt,185 ms
+104.22.54.142,FRA,Europe,Frankfurt,185 ms
+104.24.27.81,FRA,Europe,Frankfurt,185 ms
+104.24.90.172,FRA,Europe,Frankfurt,185 ms
+172.66.45.141,SJC,North America,San Jose,185 ms
+104.18.58.114,SJC,North America,San Jose,185 ms
+104.25.68.163,FRA,Europe,Frankfurt,185 ms
+104.25.153.96,FRA,Europe,Frankfurt,185 ms
+172.67.3.203,FRA,Europe,Frankfurt,185 ms
+172.67.9.212,FRA,Europe,Frankfurt,185 ms
+104.22.55.92,FRA,Europe,Frankfurt,185 ms
+172.64.89.163,SJC,North America,San Jose,185 ms
+172.67.7.252,FRA,Europe,Frankfurt,185 ms
+104.19.125.53,SJC,North America,San Jose,185 ms
+172.67.43.4,FRA,Europe,Frankfurt,185 ms
+104.19.212.34,SJC,North America,San Jose,185 ms
+104.17.234.119,SJC,North America,San Jose,185 ms
+162.159.13.156,SJC,North America,San Jose,185 ms
+172.65.230.184,SJC,North America,San Jose,185 ms
+172.67.35.232,FRA,Europe,Frankfurt,185 ms
+104.25.83.134,FRA,Europe,Frankfurt,185 ms
+172.67.49.151,FRA,Europe,Frankfurt,185 ms
+172.67.34.219,FRA,Europe,Frankfurt,185 ms
+104.27.83.34,FRA,Europe,Frankfurt,185 ms
+172.67.32.34,FRA,Europe,Frankfurt,185 ms
+104.18.59.45,SJC,North America,San Jose,185 ms
+104.18.46.227,SJC,North America,San Jose,186 ms
+104.25.124.226,FRA,Europe,Frankfurt,186 ms
+104.25.73.47,FRA,Europe,Frankfurt,186 ms
+104.18.56.1,SJC,North America,San Jose,186 ms
+172.67.104.105,FRA,Europe,Frankfurt,186 ms
+104.19.76.151,SJC,North America,San Jose,186 ms
+104.24.76.182,FRA,Europe,Frankfurt,186 ms
+172.64.85.202,SJC,North America,San Jose,186 ms
+172.64.146.206,SJC,North America,San Jose,186 ms
+104.19.100.249,SJC,North America,San Jose,186 ms
+104.22.50.238,FRA,Europe,Frankfurt,186 ms
+172.67.71.249,FRA,Europe,Frankfurt,186 ms
+104.27.105.185,FRA,Europe,Frankfurt,186 ms
+104.24.12.230,FRA,Europe,Frankfurt,186 ms
+104.23.102.61,FRA,Europe,Frankfurt,186 ms
+104.24.77.187,FRA,Europe,Frankfurt,186 ms
+104.16.113.234,LAX,North America,Los Angeles,186 ms
+104.24.178.235,FRA,Europe,Frankfurt,186 ms
+104.18.9.254,SJC,North America,San Jose,186 ms
+172.67.25.111,FRA,Europe,Frankfurt,186 ms
+104.27.16.246,FRA,Europe,Frankfurt,186 ms
+104.25.139.20,FRA,Europe,Frankfurt,186 ms
+104.25.123.223,FRA,Europe,Frankfurt,186 ms
+104.22.11.31,FRA,Europe,Frankfurt,186 ms
+172.67.116.66,FRA,Europe,Frankfurt,186 ms
+104.25.178.220,FRA,Europe,Frankfurt,186 ms
+104.24.171.71,FRA,Europe,Frankfurt,186 ms
+104.27.196.147,FRA,Europe,Frankfurt,186 ms
+104.18.51.96,SJC,North America,San Jose,187 ms
+104.25.61.4,FRA,Europe,Frankfurt,187 ms
+172.67.87.221,FRA,Europe,Frankfurt,187 ms
+104.27.123.86,FRA,Europe,Frankfurt,187 ms
+104.24.249.207,FRA,Europe,Frankfurt,187 ms
+104.24.216.51,FRA,Europe,Frankfurt,187 ms
+162.159.140.75,FRA,Europe,Frankfurt,187 ms
+104.24.81.109,FRA,Europe,Frankfurt,187 ms
+104.22.32.104,FRA,Europe,Frankfurt,187 ms
+104.24.203.211,FRA,Europe,Frankfurt,187 ms
+104.23.96.163,FRA,Europe,Frankfurt,187 ms
+104.27.33.63,FRA,Europe,Frankfurt,187 ms
+104.19.241.179,LAX,North America,Los Angeles,187 ms
+172.64.93.165,SJC,North America,San Jose,187 ms
+104.24.185.40,FRA,Europe,Frankfurt,187 ms
+104.18.157.240,SJC,North America,San Jose,187 ms
+104.27.46.61,FRA,Europe,Frankfurt,187 ms
+104.25.46.131,FRA,Europe,Frankfurt,187 ms
+104.27.19.36,FRA,Europe,Frankfurt,187 ms
+104.21.5.79,AMS,Europe,Amsterdam,187 ms
+104.16.231.139,SJC,North America,San Jose,187 ms
+104.22.14.26,FRA,Europe,Frankfurt,187 ms
+104.25.114.226,FRA,Europe,Frankfurt,187 ms
+172.67.14.171,FRA,Europe,Frankfurt,187 ms
+172.67.85.145,FRA,Europe,Frankfurt,187 ms
+104.24.245.218,FRA,Europe,Frankfurt,187 ms
+104.27.124.127,FRA,Europe,Frankfurt,187 ms
+104.22.4.83,FRA,Europe,Frankfurt,187 ms
+172.67.82.29,FRA,Europe,Frankfurt,187 ms
+104.23.108.203,FRA,Europe,Frankfurt,187 ms
+162.159.212.26,SFO,North America,San Francisco,187 ms
+141.101.123.115,SJC,North America,San Jose,187 ms
+104.16.236.106,SJC,North America,San Jose,187 ms
+104.24.86.189,FRA,Europe,Frankfurt,187 ms
+104.17.42.48,SJC,North America,San Jose,187 ms
+104.24.188.129,FRA,Europe,Frankfurt,187 ms
+104.16.120.47,LAX,North America,Los Angeles,187 ms
+104.27.3.223,FRA,Europe,Frankfurt,187 ms
+104.22.22.158,FRA,Europe,Frankfurt,187 ms
+104.22.44.225,FRA,Europe,Frankfurt,187 ms
+172.67.110.185,FRA,Europe,Frankfurt,187 ms
+104.23.99.219,FRA,Europe,Frankfurt,187 ms
+104.23.130.101,FRA,Europe,Frankfurt,188 ms
+104.18.127.239,LAX,North America,Los Angeles,188 ms
+104.19.8.113,SJC,North America,San Jose,188 ms
+172.67.55.10,FRA,Europe,Frankfurt,188 ms
+104.25.188.104,FRA,Europe,Frankfurt,188 ms
+104.24.207.75,FRA,Europe,Frankfurt,188 ms
+104.25.208.145,FRA,Europe,Frankfurt,188 ms
+162.159.194.149,FRA,Europe,Frankfurt,188 ms
+104.20.1.6,FRA,Europe,Frankfurt,188 ms
+104.25.253.174,FRA,Europe,Frankfurt,188 ms
+141.101.113.96,FRA,Europe,Frankfurt,188 ms
+104.17.178.193,SJC,North America,San Jose,188 ms
+104.18.195.103,SJC,North America,San Jose,188 ms
+172.67.75.2,FRA,Europe,Frankfurt,188 ms
+104.25.157.186,FRA,Europe,Frankfurt,188 ms
+104.17.18.216,SJC,North America,San Jose,188 ms
+104.25.235.192,FRA,Europe,Frankfurt,188 ms
+172.67.11.134,FRA,Europe,Frankfurt,188 ms
+104.21.77.4,AMS,Europe,Amsterdam,188 ms
+104.22.48.253,FRA,Europe,Frankfurt,188 ms
+104.25.96.96,FRA,Europe,Frankfurt,188 ms
+104.19.251.199,LAX,North America,Los Angeles,188 ms
+104.16.112.88,LAX,North America,Los Angeles,188 ms
+104.24.164.142,FRA,Europe,Frankfurt,188 ms
+104.21.226.8,LAX,North America,Los Angeles,188 ms
+104.17.92.105,SJC,North America,San Jose,188 ms
+172.67.122.238,FRA,Europe,Frankfurt,188 ms
+172.67.19.77,FRA,Europe,Frankfurt,188 ms
+104.19.91.141,SJC,North America,San Jose,188 ms
+172.67.77.135,FRA,Europe,Frankfurt,188 ms
+104.27.99.112,FRA,Europe,Frankfurt,188 ms
+104.25.228.1,FRA,Europe,Frankfurt,188 ms
+172.67.37.25,FRA,Europe,Frankfurt,188 ms
+172.67.74.182,FRA,Europe,Frankfurt,188 ms
+104.24.33.34,FRA,Europe,Frankfurt,188 ms
+104.27.92.8,FRA,Europe,Frankfurt,188 ms
+162.159.142.20,FRA,Europe,Frankfurt,188 ms
+104.25.58.183,FRA,Europe,Frankfurt,188 ms
+104.18.198.103,SJC,North America,San Jose,188 ms
+162.159.207.63,SJC,North America,San Jose,188 ms
+162.159.135.173,FRA,Europe,Frankfurt,189 ms
+104.23.101.242,FRA,Europe,Frankfurt,189 ms
+104.16.71.54,SJC,North America,San Jose,189 ms
+104.16.114.65,LAX,North America,Los Angeles,189 ms
+172.64.228.71,FRA,Europe,Frankfurt,189 ms
+104.27.111.202,FRA,Europe,Frankfurt,189 ms
+162.159.236.155,SJC,North America,San Jose,189 ms
+104.27.62.81,FRA,Europe,Frankfurt,189 ms
+104.23.112.112,FRA,Europe,Frankfurt,189 ms
+104.19.73.26,SJC,North America,San Jose,189 ms
+104.25.47.213,FRA,Europe,Frankfurt,189 ms
+104.25.214.162,FRA,Europe,Frankfurt,189 ms
+104.27.125.2,FRA,Europe,Frankfurt,189 ms
+104.22.75.41,FRA,Europe,Frankfurt,189 ms
+172.67.27.38,FRA,Europe,Frankfurt,189 ms
+104.19.120.114,SJC,North America,San Jose,189 ms
+104.19.164.9,SJC,North America,San Jose,189 ms
+104.26.0.74,FRA,Europe,Frankfurt,189 ms
+104.24.154.53,FRA,Europe,Frankfurt,189 ms
+172.67.68.161,FRA,Europe,Frankfurt,189 ms
+172.67.48.73,FRA,Europe,Frankfurt,189 ms
+104.25.66.152,FRA,Europe,Frankfurt,189 ms
+104.17.210.94,SJC,North America,San Jose,189 ms
+104.17.8.199,SJC,North America,San Jose,189 ms
+104.27.102.185,FRA,Europe,Frankfurt,189 ms
+172.64.231.218,SJC,North America,San Jose,189 ms
+104.27.31.15,FRA,Europe,Frankfurt,189 ms
+104.25.98.122,FRA,Europe,Frankfurt,189 ms
+104.17.235.44,SJC,North America,San Jose,189 ms
+104.19.34.216,SJC,North America,San Jose,190 ms
+104.24.202.105,FRA,Europe,Frankfurt,190 ms
+104.25.176.99,FRA,Europe,Frankfurt,190 ms
+104.17.133.56,SJC,North America,San Jose,190 ms
+104.25.230.149,FRA,Europe,Frankfurt,190 ms
+172.64.35.115,SJC,North America,San Jose,190 ms
+104.16.181.59,SJC,North America,San Jose,190 ms
+104.22.49.148,FRA,Europe,Frankfurt,190 ms
+104.25.126.149,FRA,Europe,Frankfurt,190 ms
+104.19.61.34,SJC,North America,San Jose,190 ms
+104.24.145.32,FRA,Europe,Frankfurt,190 ms
+104.27.194.115,FRA,Europe,Frankfurt,190 ms
+172.67.90.32,FRA,Europe,Frankfurt,190 ms
+104.23.103.182,FRA,Europe,Frankfurt,190 ms
+104.16.69.90,SJC,North America,San Jose,190 ms
+104.25.190.202,FRA,Europe,Frankfurt,190 ms
+104.22.78.186,FRA,Europe,Frankfurt,190 ms
+104.18.131.31,SJC,North America,San Jose,190 ms
+104.27.207.15,FRA,Europe,Frankfurt,190 ms
+104.16.18.198,SJC,North America,San Jose,190 ms
+104.25.135.239,FRA,Europe,Frankfurt,190 ms
+172.67.0.32,FRA,Europe,Frankfurt,190 ms
+104.19.221.222,SJC,North America,San Jose,190 ms
+104.27.115.199,FRA,Europe,Frankfurt,190 ms
+172.67.51.232,FRA,Europe,Frankfurt,190 ms
+104.24.56.115,FRA,Europe,Frankfurt,190 ms
+104.18.76.182,SJC,North America,San Jose,190 ms
+172.67.105.161,FRA,Europe,Frankfurt,190 ms
+104.19.150.89,SJC,North America,San Jose,190 ms
+104.25.201.209,FRA,Europe,Frankfurt,190 ms
+104.25.49.85,FRA,Europe,Frankfurt,190 ms
+104.18.253.170,SJC,North America,San Jose,190 ms
+104.17.93.91,SJC,North America,San Jose,190 ms
+104.27.11.148,FRA,Europe,Frankfurt,190 ms
+104.23.120.65,FRA,Europe,Frankfurt,190 ms
+104.24.25.76,FRA,Europe,Frankfurt,191 ms
+172.67.96.255,FRA,Europe,Frankfurt,191 ms
+104.19.250.232,LAX,North America,Los Angeles,191 ms
+104.24.73.47,FRA,Europe,Frankfurt,191 ms
+104.18.169.47,SJC,North America,San Jose,191 ms
+104.27.108.232,FRA,Europe,Frankfurt,191 ms
+104.27.57.99,FRA,Europe,Frankfurt,191 ms
+104.25.120.221,FRA,Europe,Frankfurt,191 ms
+104.23.114.18,FRA,Europe,Frankfurt,191 ms
+172.67.52.99,FRA,Europe,Frankfurt,191 ms
+104.27.94.83,FRA,Europe,Frankfurt,191 ms
+104.18.70.246,SJC,North America,San Jose,191 ms
+162.159.134.175,FRA,Europe,Frankfurt,191 ms
+104.21.230.43,LAX,North America,Los Angeles,191 ms
+104.19.157.224,SJC,North America,San Jose,191 ms
+104.25.217.113,FRA,Europe,Frankfurt,191 ms
+172.67.2.16,FRA,Europe,Frankfurt,191 ms
+104.23.123.70,FRA,Europe,Frankfurt,191 ms
+104.25.117.51,FRA,Europe,Frankfurt,191 ms
+104.25.70.245,FRA,Europe,Frankfurt,191 ms
+162.159.206.115,SJC,North America,San Jose,191 ms
+104.19.195.43,SJC,North America,San Jose,191 ms
+104.27.201.227,FRA,Europe,Frankfurt,191 ms
+104.23.126.56,FRA,Europe,Frankfurt,191 ms
+104.24.137.178,FRA,Europe,Frankfurt,191 ms
+104.19.149.94,SJC,North America,San Jose,191 ms
+104.27.79.168,FRA,Europe,Frankfurt,191 ms
+104.20.5.94,FRA,Europe,Frankfurt,191 ms
+104.19.7.25,SJC,North America,San Jose,191 ms
+104.19.79.117,SJC,North America,San Jose,191 ms
+104.25.155.137,FRA,Europe,Frankfurt,191 ms
+104.25.221.251,FRA,Europe,Frankfurt,191 ms
+104.20.7.162,FRA,Europe,Frankfurt,192 ms
+172.67.112.240,FRA,Europe,Frankfurt,192 ms
+104.19.104.222,SJC,North America,San Jose,192 ms
+104.25.151.86,FRA,Europe,Frankfurt,192 ms
+172.67.46.51,FRA,Europe,Frankfurt,192 ms
+162.159.243.249,LAX,North America,Los Angeles,192 ms
+104.25.191.154,FRA,Europe,Frankfurt,192 ms
+104.16.87.158,SJC,North America,San Jose,192 ms
+162.159.18.238,SJC,North America,San Jose,192 ms
+172.67.66.78,FRA,Europe,Frankfurt,192 ms
+104.17.97.215,SJC,North America,San Jose,192 ms
+104.24.146.126,FRA,Europe,Frankfurt,192 ms
+172.67.62.154,FRA,Europe,Frankfurt,192 ms
+104.25.80.28,FRA,Europe,Frankfurt,192 ms
+104.27.103.171,FRA,Europe,Frankfurt,192 ms
+172.64.68.87,FRA,Europe,Frankfurt,192 ms
+104.24.85.160,FRA,Europe,Frankfurt,192 ms
+104.21.236.221,LAX,North America,Los Angeles,192 ms
+104.19.35.123,SJC,North America,San Jose,192 ms
+104.16.209.232,SJC,North America,San Jose,192 ms
+104.24.226.223,FRA,Europe,Frankfurt,192 ms
+104.18.29.201,LAX,North America,Los Angeles,192 ms
+104.27.110.217,FRA,Europe,Frankfurt,192 ms
+104.24.95.167,FRA,Europe,Frankfurt,192 ms
+172.67.126.245,FRA,Europe,Frankfurt,192 ms
+104.18.185.193,SJC,North America,San Jose,192 ms
+104.25.147.229,FRA,Europe,Frankfurt,192 ms
+104.21.85.11,AMS,Europe,Amsterdam,192 ms
+104.24.87.11,FRA,Europe,Frankfurt,192 ms
+104.24.57.108,FRA,Europe,Frankfurt,192 ms
+104.27.22.121,FRA,Europe,Frankfurt,192 ms
+172.67.58.250,FRA,Europe,Frankfurt,193 ms
+104.19.119.51,SJC,North America,San Jose,193 ms
+104.24.210.127,FRA,Europe,Frankfurt,193 ms
+141.101.121.212,SJC,North America,San Jose,193 ms
+104.17.184.62,SJC,North America,San Jose,193 ms
+104.17.181.208,SJC,North America,San Jose,193 ms
+104.25.182.248,FRA,Europe,Frankfurt,193 ms
+104.24.94.122,FRA,Europe,Frankfurt,193 ms
+104.24.251.208,FRA,Europe,Frankfurt,193 ms
+104.19.48.185,SJC,North America,San Jose,193 ms
+104.16.38.129,SJC,North America,San Jose,193 ms
+104.24.174.246,FRA,Europe,Frankfurt,193 ms
+104.22.69.244,FRA,Europe,Frankfurt,193 ms
+104.26.1.51,FRA,Europe,Frankfurt,193 ms
+104.27.100.115,FRA,Europe,Frankfurt,193 ms
+104.17.47.166,SJC,North America,San Jose,193 ms
+104.19.18.26,SJC,North America,San Jose,193 ms
+172.64.144.94,SJC,North America,San Jose,193 ms
+104.27.56.26,FRA,Europe,Frankfurt,193 ms
+104.25.10.16,FRA,Europe,Frankfurt,193 ms
+104.18.204.153,SJC,North America,San Jose,193 ms
+104.27.32.200,FRA,Europe,Frankfurt,193 ms
+104.25.233.216,FRA,Europe,Frankfurt,193 ms
+104.18.152.229,SJC,North America,San Jose,193 ms
+104.24.169.186,FRA,Europe,Frankfurt,193 ms
+104.17.213.231,SJC,North America,San Jose,193 ms
+172.67.107.177,FRA,Europe,Frankfurt,193 ms
+104.24.22.99,FRA,Europe,Frankfurt,193 ms
+104.22.63.122,FRA,Europe,Frankfurt,193 ms
+104.18.246.178,SJC,North America,San Jose,193 ms
+104.18.181.183,SJC,North America,San Jose,193 ms
+104.24.199.43,FRA,Europe,Frankfurt,193 ms
+104.27.59.229,FRA,Europe,Frankfurt,193 ms
+104.25.74.86,FRA,Europe,Frankfurt,193 ms
+104.24.222.15,FRA,Europe,Frankfurt,193 ms
+104.17.101.41,SJC,North America,San Jose,193 ms
+104.25.149.236,FRA,Europe,Frankfurt,193 ms
+172.67.88.4,FRA,Europe,Frankfurt,194 ms
+104.22.19.121,FRA,Europe,Frankfurt,194 ms
+104.24.1.151,FRA,Europe,Frankfurt,194 ms
+104.24.144.16,FRA,Europe,Frankfurt,194 ms
+104.25.128.238,FRA,Europe,Frankfurt,194 ms
+104.18.10.169,SJC,North America,San Jose,194 ms
+172.67.95.69,FRA,Europe,Frankfurt,194 ms
+104.22.28.11,FRA,Europe,Frankfurt,194 ms
+104.19.204.209,SJC,North America,San Jose,194 ms
+104.24.19.114,FRA,Europe,Frankfurt,194 ms
+104.24.143.53,FRA,Europe,Frankfurt,194 ms
+104.25.108.212,FRA,Europe,Frankfurt,194 ms
+104.25.18.167,FRA,Europe,Frankfurt,194 ms
+104.18.50.161,SJC,North America,San Jose,194 ms
+104.27.117.119,FRA,Europe,Frankfurt,194 ms
+104.26.11.100,FRA,Europe,Frankfurt,194 ms
+104.22.23.135,FRA,Europe,Frankfurt,194 ms
+104.23.133.48,FRA,Europe,Frankfurt,194 ms
+104.24.195.75,FRA,Europe,Frankfurt,194 ms
+104.25.186.180,FRA,Europe,Frankfurt,195 ms
+104.16.118.211,LAX,North America,Los Angeles,195 ms
+104.17.156.22,SJC,North America,San Jose,195 ms
+104.27.113.251,FRA,Europe,Frankfurt,195 ms
+104.25.48.36,FRA,Europe,Frankfurt,195 ms
+104.22.3.22,FRA,Europe,Frankfurt,195 ms
+104.25.211.124,FRA,Europe,Frankfurt,195 ms
+104.25.179.102,FRA,Europe,Frankfurt,195 ms
+104.27.8.223,FRA,Europe,Frankfurt,195 ms
+104.24.72.210,FRA,Europe,Frankfurt,195 ms
+172.67.102.184,FRA,Europe,Frankfurt,195 ms
+104.25.64.211,FRA,Europe,Frankfurt,195 ms
+104.25.169.135,FRA,Europe,Frankfurt,195 ms
+104.25.28.12,FRA,Europe,Frankfurt,195 ms
+162.159.7.221,SJC,North America,San Jose,195 ms
+104.18.137.102,SJC,North America,San Jose,195 ms
+104.27.197.6,FRA,Europe,Frankfurt,195 ms
+104.27.40.243,FRA,Europe,Frankfurt,195 ms
+104.17.15.253,SJC,North America,San Jose,195 ms
+104.24.227.32,FRA,Europe,Frankfurt,195 ms
+172.67.59.15,FRA,Europe,Frankfurt,195 ms
+104.18.3.132,SJC,North America,San Jose,195 ms
+104.24.223.230,FRA,Europe,Frankfurt,195 ms
+104.22.56.253,FRA,Europe,Frankfurt,195 ms
+104.23.128.50,FRA,Europe,Frankfurt,196 ms
+104.18.27.205,LAX,North America,Los Angeles,196 ms
+104.27.72.36,FRA,Europe,Frankfurt,196 ms
+104.19.74.105,SJC,North America,San Jose,196 ms
+104.16.200.59,SJC,North America,San Jose,196 ms
+104.24.132.198,FRA,Europe,Frankfurt,196 ms
+104.25.75.28,FRA,Europe,Frankfurt,196 ms
+104.24.37.180,FRA,Europe,Frankfurt,196 ms
+104.25.26.23,FRA,Europe,Frankfurt,196 ms
+104.25.118.161,FRA,Europe,Frankfurt,196 ms
+104.23.106.51,FRA,Europe,Frankfurt,196 ms
+104.22.64.165,FRA,Europe,Frankfurt,196 ms
+172.64.49.96,SJC,North America,San Jose,196 ms
+104.22.13.120,FRA,Europe,Frankfurt,196 ms
+104.21.9.185,AMS,Europe,Amsterdam,196 ms
+104.22.8.123,FRA,Europe,Frankfurt,196 ms
+104.19.67.145,SJC,North America,San Jose,196 ms
+104.16.127.240,LAX,North America,Los Angeles,196 ms
+104.18.133.62,SJC,North America,San Jose,196 ms
+104.25.185.14,FRA,Europe,Frankfurt,196 ms
+104.25.150.226,FRA,Europe,Frankfurt,196 ms
+172.64.151.175,SJC,North America,San Jose,196 ms
+104.27.52.224,FRA,Europe,Frankfurt,196 ms
+104.18.2.78,SJC,North America,San Jose,197 ms
+172.67.47.133,FRA,Europe,Frankfurt,197 ms
+104.26.3.70,FRA,Europe,Frankfurt,197 ms
+104.18.215.127,SJC,North America,San Jose,197 ms
+104.27.50.135,FRA,Europe,Frankfurt,197 ms
+104.17.51.206,SJC,North America,San Jose,197 ms
+104.25.143.181,FRA,Europe,Frankfurt,197 ms
+104.18.115.138,LAX,North America,Los Angeles,197 ms
+104.22.65.120,FRA,Europe,Frankfurt,197 ms
+104.27.122.78,FRA,Europe,Frankfurt,197 ms
+104.20.10.221,FRA,Europe,Frankfurt,197 ms
+104.27.7.123,FRA,Europe,Frankfurt,197 ms
+172.67.169.243,AMS,Europe,Amsterdam,197 ms
+172.67.40.53,FRA,Europe,Frankfurt,197 ms
+104.22.1.20,FRA,Europe,Frankfurt,197 ms
+172.67.183.49,AMS,Europe,Amsterdam,197 ms
+104.24.20.29,FRA,Europe,Frankfurt,197 ms
+104.22.47.251,FRA,Europe,Frankfurt,197 ms
+104.16.146.185,SJC,North America,San Jose,197 ms
+172.67.114.132,FRA,Europe,Frankfurt,197 ms
+104.18.180.176,SJC,North America,San Jose,197 ms
+104.25.171.99,FRA,Europe,Frankfurt,197 ms
+104.27.198.12,FRA,Europe,Frankfurt,197 ms
+104.25.71.27,FRA,Europe,Frankfurt,197 ms
+104.26.7.85,FRA,Europe,Frankfurt,197 ms
+104.16.39.114,SJC,North America,San Jose,198 ms
+172.67.61.127,FRA,Europe,Frankfurt,198 ms
+104.25.200.242,FRA,Europe,Frankfurt,198 ms
+104.23.137.135,FRA,Europe,Frankfurt,198 ms
+104.25.177.196,FRA,Europe,Frankfurt,198 ms
+104.25.220.153,FRA,Europe,Frankfurt,198 ms
+104.24.42.13,FRA,Europe,Frankfurt,198 ms
+104.20.8.127,FRA,Europe,Frankfurt,198 ms
+104.17.249.240,SJC,North America,San Jose,198 ms
+104.27.1.207,FRA,Europe,Frankfurt,198 ms
+104.25.59.242,FRA,Europe,Frankfurt,198 ms
+104.18.156.13,SJC,North America,San Jose,198 ms
+104.22.79.43,FRA,Europe,Frankfurt,198 ms
+104.24.166.231,FRA,Europe,Frankfurt,198 ms
+104.27.202.126,FRA,Europe,Frankfurt,198 ms
+172.67.109.224,FRA,Europe,Frankfurt,198 ms
+172.67.13.43,FRA,Europe,Frankfurt,198 ms
+104.19.66.215,SJC,North America,San Jose,198 ms
+173.245.49.111,SJC,North America,San Jose,198 ms
+104.27.65.179,FRA,Europe,Frankfurt,198 ms
+104.27.43.91,FRA,Europe,Frankfurt,198 ms
+104.27.48.91,FRA,Europe,Frankfurt,198 ms
+104.17.193.15,SJC,North America,San Jose,198 ms
+172.67.108.159,FRA,Europe,Frankfurt,198 ms
+104.16.214.199,SJC,North America,San Jose,198 ms
+104.22.66.72,FRA,Europe,Frankfurt,198 ms
+104.25.84.8,FRA,Europe,Frankfurt,198 ms
+104.19.236.206,SJC,North America,San Jose,198 ms
+104.24.238.154,FRA,Europe,Frankfurt,198 ms
+104.16.196.111,SJC,North America,San Jose,198 ms
+104.25.236.238,FRA,Europe,Frankfurt,198 ms
+104.25.175.230,FRA,Europe,Frankfurt,198 ms
+104.24.21.230,FRA,Europe,Frankfurt,199 ms
+104.27.126.135,FRA,Europe,Frankfurt,199 ms
+104.24.82.143,FRA,Europe,Frankfurt,199 ms
+104.16.92.94,SJC,North America,San Jose,199 ms
+104.24.10.200,FRA,Europe,Frankfurt,199 ms
+104.19.108.220,SJC,North America,San Jose,199 ms
+104.17.248.71,SJC,North America,San Jose,199 ms
+104.22.43.137,FRA,Europe,Frankfurt,199 ms
+172.66.43.208,SJC,North America,San Jose,199 ms
+104.27.106.77,FRA,Europe,Frankfurt,199 ms
+104.19.44.170,SJC,North America,San Jose,199 ms
+172.67.123.92,FRA,Europe,Frankfurt,199 ms
+104.25.102.103,FRA,Europe,Frankfurt,199 ms
+104.24.211.208,FRA,Europe,Frankfurt,199 ms
+104.24.240.79,FRA,Europe,Frankfurt,199 ms
+104.17.161.33,SJC,North America,San Jose,199 ms
+198.41.196.182,SJC,North America,San Jose,199 ms
+104.16.88.93,SJC,North America,San Jose,199 ms
+104.24.242.124,FRA,Europe,Frankfurt,199 ms
+104.22.2.254,FRA,Europe,Frankfurt,199 ms
+104.16.227.108,SJC,North America,San Jose,199 ms
+104.27.112.249,FRA,Europe,Frankfurt,199 ms
+104.24.204.195,FRA,Europe,Frankfurt,199 ms
+104.18.114.251,LAX,North America,Los Angeles,199 ms
+104.27.64.251,FRA,Europe,Frankfurt,199 ms
+104.22.27.38,FRA,Europe,Frankfurt,199 ms
+104.27.41.214,FRA,Europe,Frankfurt,199 ms
+104.17.220.216,SJC,North America,San Jose,199 ms
+104.18.139.39,SJC,North America,San Jose,199 ms
+104.18.214.199,SJC,North America,San Jose,199 ms
+104.27.204.59,FRA,Europe,Frankfurt,199 ms
+104.17.166.8,SJC,North America,San Jose,199 ms
+104.25.103.210,FRA,Europe,Frankfurt,200 ms
+104.22.59.173,FRA,Europe,Frankfurt,200 ms
+104.25.55.208,FRA,Europe,Frankfurt,200 ms
+172.67.92.68,FRA,Europe,Frankfurt,200 ms
+104.18.190.88,SJC,North America,San Jose,200 ms
+104.16.84.215,SJC,North America,San Jose,200 ms
+104.16.124.194,LAX,North America,Los Angeles,200 ms
+104.17.176.39,SJC,North America,San Jose,200 ms
+104.25.245.165,FRA,Europe,Frankfurt,200 ms
+104.17.68.123,SJC,North America,San Jose,200 ms
+104.25.164.123,FRA,Europe,Frankfurt,200 ms
+104.24.24.201,FRA,Europe,Frankfurt,200 ms
+104.27.109.56,FRA,Europe,Frankfurt,200 ms
+104.18.208.255,SJC,North America,San Jose,200 ms
+172.67.198.5,AMS,Europe,Amsterdam,200 ms
+172.67.91.159,FRA,Europe,Frankfurt,200 ms
+104.22.18.61,FRA,Europe,Frankfurt,200 ms
+104.27.20.120,FRA,Europe,Frankfurt,200 ms
+104.18.168.228,SJC,North America,San Jose,200 ms
+198.41.198.80,SJC,North America,San Jose,200 ms
+104.26.12.229,FRA,Europe,Frankfurt,200 ms
+104.17.103.54,SJC,North America,San Jose,200 ms
+104.26.6.172,FRA,Europe,Frankfurt,200 ms
+104.17.67.212,SJC,North America,San Jose,200 ms
+104.27.26.164,FRA,Europe,Frankfurt,200 ms
+104.24.61.24,FRA,Europe,Frankfurt,200 ms
+172.67.44.70,FRA,Europe,Frankfurt,200 ms
+172.67.89.64,FRA,Europe,Frankfurt,200 ms
+172.67.1.19,FRA,Europe,Frankfurt,200 ms
+172.67.64.127,FRA,Europe,Frankfurt,200 ms
+104.27.17.53,FRA,Europe,Frankfurt,201 ms
+104.25.111.121,FRA,Europe,Frankfurt,201 ms
+104.25.27.23,FRA,Europe,Frankfurt,201 ms
+104.18.7.225,SJC,North America,San Jose,201 ms
+104.26.4.205,FRA,Europe,Frankfurt,201 ms
+104.27.5.37,FRA,Europe,Frankfurt,201 ms
+172.67.6.14,FRA,Europe,Frankfurt,201 ms
+104.19.0.228,SJC,North America,San Jose,201 ms
+104.17.1.220,SJC,North America,San Jose,201 ms
+104.27.67.135,FRA,Europe,Frankfurt,201 ms
+104.20.6.58,FRA,Europe,Frankfurt,201 ms
+104.16.140.158,SJC,North America,San Jose,201 ms
+104.22.38.215,FRA,Europe,Frankfurt,201 ms
+104.23.116.205,FRA,Europe,Frankfurt,201 ms
+104.25.53.141,FRA,Europe,Frankfurt,201 ms
+104.18.91.119,SJC,North America,San Jose,201 ms
+104.27.21.194,FRA,Europe,Frankfurt,201 ms
+104.27.203.103,FRA,Europe,Frankfurt,201 ms
+104.27.205.138,FRA,Europe,Frankfurt,201 ms
+104.25.197.191,FRA,Europe,Frankfurt,201 ms
+104.18.22.157,LAX,North America,Los Angeles,201 ms
+104.22.61.141,FRA,Europe,Frankfurt,201 ms
+104.25.158.58,FRA,Europe,Frankfurt,201 ms
+104.23.139.87,FRA,Europe,Frankfurt,201 ms
+104.22.39.102,FRA,Europe,Frankfurt,201 ms
+172.67.99.96,FRA,Europe,Frankfurt,201 ms
+172.64.82.226,SJC,North America,San Jose,201 ms
+104.27.107.142,FRA,Europe,Frankfurt,201 ms
+104.17.209.75,SJC,North America,San Jose,201 ms
+104.19.92.184,SJC,North America,San Jose,201 ms
+104.17.120.65,SJC,North America,San Jose,201 ms
+104.27.199.170,FRA,Europe,Frankfurt,201 ms
+104.25.132.77,FRA,Europe,Frankfurt,201 ms
+104.19.110.72,SJC,North America,San Jose,201 ms
+104.19.107.251,SJC,North America,San Jose,201 ms
+104.19.203.30,SJC,North America,San Jose,202 ms
+104.22.45.77,FRA,Europe,Frankfurt,202 ms
+104.31.16.95,SJC,North America,San Jose,202 ms
+104.25.194.62,FRA,Europe,Frankfurt,202 ms
+104.21.231.51,SJC,North America,San Jose,202 ms
+104.17.144.252,SJC,North America,San Jose,202 ms
+104.25.215.119,FRA,Europe,Frankfurt,202 ms
+162.159.58.235,SJC,North America,San Jose,202 ms
+104.24.131.41,FRA,Europe,Frankfurt,202 ms
+104.25.192.241,FRA,Europe,Frankfurt,202 ms
+104.25.227.49,FRA,Europe,Frankfurt,202 ms
+104.27.200.117,FRA,Europe,Frankfurt,202 ms
+104.19.137.134,LAX,North America,Los Angeles,202 ms
+172.64.158.241,SJC,North America,San Jose,202 ms
+104.17.54.123,SJC,North America,San Jose,202 ms
+104.19.85.242,SJC,North America,San Jose,202 ms
+104.18.142.167,SJC,North America,San Jose,202 ms
+104.24.142.193,FRA,Europe,Frankfurt,202 ms
+104.27.35.105,FRA,Europe,Frankfurt,202 ms
+172.67.115.142,FRA,Europe,Frankfurt,202 ms
+104.27.91.219,FRA,Europe,Frankfurt,202 ms
+104.22.73.115,FRA,Europe,Frankfurt,202 ms
+104.19.206.5,SJC,North America,San Jose,202 ms
+104.24.58.36,FRA,Europe,Frankfurt,203 ms
+104.18.167.189,SJC,North America,San Jose,203 ms
+104.16.9.219,SJC,North America,San Jose,203 ms
+104.24.218.0,FRA,Europe,Frankfurt,203 ms
+104.25.115.212,FRA,Europe,Frankfurt,203 ms
+104.18.220.232,SJC,North America,San Jose,203 ms
+104.19.207.18,SJC,North America,San Jose,203 ms
+104.22.71.202,FRA,Europe,Frankfurt,203 ms
+104.17.236.23,SJC,North America,San Jose,203 ms
+104.25.42.109,FRA,Europe,Frankfurt,203 ms
+104.26.2.161,FRA,Europe,Frankfurt,203 ms
+104.23.140.191,FRA,Europe,Frankfurt,203 ms
+172.67.39.2,FRA,Europe,Frankfurt,203 ms
+104.23.98.83,FRA,Europe,Frankfurt,203 ms
+104.16.180.149,SJC,North America,San Jose,203 ms
+104.24.35.171,FRA,Europe,Frankfurt,203 ms
+104.22.52.195,FRA,Europe,Frankfurt,203 ms
+104.25.85.29,FRA,Europe,Frankfurt,203 ms
+104.27.85.22,FRA,Europe,Frankfurt,203 ms
+104.16.249.48,SJC,North America,San Jose,203 ms
+104.24.11.0,FRA,Europe,Frankfurt,203 ms
+104.21.202.35,AMS,Europe,Amsterdam,203 ms
+162.159.0.78,SJC,North America,San Jose,203 ms
+104.22.26.25,FRA,Europe,Frankfurt,203 ms
+104.17.124.127,SJC,North America,San Jose,203 ms
+162.159.25.23,SJC,North America,San Jose,204 ms
+162.159.129.55,FRA,Europe,Frankfurt,204 ms
+104.24.3.62,FRA,Europe,Frankfurt,204 ms
+104.18.247.241,SJC,North America,San Jose,204 ms
+104.22.34.163,FRA,Europe,Frankfurt,204 ms
+172.67.121.71,FRA,Europe,Frankfurt,204 ms
+104.24.70.215,FRA,Europe,Frankfurt,204 ms
+104.17.126.69,SJC,North America,San Jose,204 ms
+104.20.0.223,FRA,Europe,Frankfurt,204 ms
+104.23.143.7,FRA,Europe,Frankfurt,204 ms
+104.25.99.180,FRA,Europe,Frankfurt,204 ms
+104.22.29.117,FRA,Europe,Frankfurt,204 ms
+172.67.72.230,FRA,Europe,Frankfurt,204 ms
+172.67.12.61,FRA,Europe,Frankfurt,204 ms
+104.24.246.127,FRA,Europe,Frankfurt,204 ms
+104.18.231.86,SJC,North America,San Jose,204 ms
+104.18.173.219,SJC,North America,San Jose,204 ms
+172.67.30.169,FRA,Europe,Frankfurt,204 ms
+162.159.247.207,LAX,North America,Los Angeles,204 ms
+172.67.23.135,FRA,Europe,Frankfurt,204 ms
+104.16.14.92,SJC,North America,San Jose,204 ms
+172.67.67.245,FRA,Europe,Frankfurt,204 ms
+104.20.12.220,FRA,Europe,Frankfurt,204 ms
+104.19.97.233,SJC,North America,San Jose,204 ms
+104.16.215.83,SJC,North America,San Jose,204 ms
+104.19.17.198,SJC,North America,San Jose,204 ms
+104.17.108.75,SJC,North America,San Jose,204 ms
+104.24.234.16,FRA,Europe,Frankfurt,205 ms
+104.27.9.15,FRA,Europe,Frankfurt,205 ms
+104.25.16.117,FRA,Europe,Frankfurt,205 ms
+104.25.249.65,FRA,Europe,Frankfurt,205 ms
+104.18.160.245,SJC,North America,San Jose,205 ms
+104.24.52.235,FRA,Europe,Frankfurt,205 ms
+104.21.234.33,LAX,North America,Los Angeles,205 ms
+172.67.69.176,FRA,Europe,Frankfurt,205 ms
+104.16.119.35,LAX,North America,Los Angeles,205 ms
+104.25.50.15,FRA,Europe,Frankfurt,205 ms
+104.25.34.200,FRA,Europe,Frankfurt,205 ms
+162.159.9.6,SJC,North America,San Jose,205 ms
+104.25.94.182,FRA,Europe,Frankfurt,205 ms
+104.19.249.119,LAX,North America,Los Angeles,205 ms
+104.27.120.81,FRA,Europe,Frankfurt,205 ms
+104.19.89.127,SJC,North America,San Jose,205 ms
+104.16.52.150,SJC,North America,San Jose,205 ms
+104.19.240.73,LAX,North America,Los Angeles,205 ms
+104.25.131.22,FRA,Europe,Frankfurt,206 ms
+104.27.53.237,FRA,Europe,Frankfurt,206 ms
+104.25.91.128,FRA,Europe,Frankfurt,206 ms
+162.159.27.26,SJC,North America,San Jose,206 ms
+104.17.232.161,SJC,North America,San Jose,206 ms
+172.67.124.69,FRA,Europe,Frankfurt,206 ms
+104.24.8.36,FRA,Europe,Frankfurt,206 ms
+104.27.10.137,FRA,Europe,Frankfurt,206 ms
+104.25.110.83,FRA,Europe,Frankfurt,206 ms
+104.19.59.40,SJC,North America,San Jose,206 ms
+104.18.117.212,LAX,North America,Los Angeles,206 ms
+104.19.138.47,LAX,North America,Los Angeles,206 ms
+104.22.24.40,FRA,Europe,Frankfurt,206 ms
+104.25.144.31,FRA,Europe,Frankfurt,206 ms
+104.16.126.45,LAX,North America,Los Angeles,206 ms
+104.27.195.160,FRA,Europe,Frankfurt,206 ms
+172.64.159.114,SJC,North America,San Jose,206 ms
+172.67.5.244,FRA,Europe,Frankfurt,206 ms
+198.41.195.228,SJC,North America,San Jose,206 ms
+162.159.160.193,FRA,Europe,Frankfurt,206 ms
+104.24.151.157,FRA,Europe,Frankfurt,206 ms
+104.24.231.0,FRA,Europe,Frankfurt,206 ms
+104.27.37.116,FRA,Europe,Frankfurt,206 ms
+104.25.225.39,FRA,Europe,Frankfurt,206 ms
+172.67.117.179,FRA,Europe,Frankfurt,206 ms
+162.159.35.239,FRA,Europe,Frankfurt,206 ms
+104.19.22.187,SJC,North America,San Jose,206 ms
+104.24.2.50,FRA,Europe,Frankfurt,206 ms
+104.24.236.98,FRA,Europe,Frankfurt,206 ms
+172.64.40.29,LAX,North America,Los Angeles,206 ms
+104.25.11.61,FRA,Europe,Frankfurt,206 ms
+104.26.14.43,FRA,Europe,Frankfurt,206 ms
+104.22.15.38,FRA,Europe,Frankfurt,206 ms
+172.67.42.128,FRA,Europe,Frankfurt,207 ms
+104.19.245.248,LAX,North America,Los Angeles,207 ms
+104.24.244.206,FRA,Europe,Frankfurt,207 ms
+104.19.77.166,SJC,North America,San Jose,207 ms
+104.24.176.227,FRA,Europe,Frankfurt,207 ms
+104.24.205.61,FRA,Europe,Frankfurt,207 ms
+104.27.95.148,FRA,Europe,Frankfurt,207 ms
+104.24.64.144,FRA,Europe,Frankfurt,207 ms
+104.25.6.185,FRA,Europe,Frankfurt,207 ms
+104.27.25.68,FRA,Europe,Frankfurt,207 ms
+172.67.98.181,FRA,Europe,Frankfurt,207 ms
+172.67.50.92,FRA,Europe,Frankfurt,207 ms
+104.16.208.137,SJC,North America,San Jose,207 ms
+104.22.46.70,FRA,Europe,Frankfurt,207 ms
+104.27.81.74,FRA,Europe,Frankfurt,207 ms
+104.24.53.55,FRA,Europe,Frankfurt,207 ms
+104.22.16.17,FRA,Europe,Frankfurt,207 ms
+104.25.160.47,FRA,Europe,Frankfurt,207 ms
+172.67.83.9,FRA,Europe,Frankfurt,207 ms
+172.67.53.50,FRA,Europe,Frankfurt,207 ms
+104.22.31.67,FRA,Europe,Frankfurt,207 ms
+104.18.19.209,LAX,North America,Los Angeles,207 ms
+104.17.197.163,SJC,North America,San Jose,207 ms
+104.24.150.140,FRA,Europe,Frankfurt,207 ms
+104.19.26.94,SJC,North America,San Jose,207 ms
+162.159.244.7,LAX,North America,Los Angeles,207 ms
+104.27.47.6,FRA,Europe,Frankfurt,208 ms
+162.159.141.142,FRA,Europe,Frankfurt,208 ms
+172.67.22.221,FRA,Europe,Frankfurt,208 ms
+104.18.209.24,SJC,North America,San Jose,208 ms
+104.18.126.142,LAX,North America,Los Angeles,208 ms
+104.27.192.146,FRA,Europe,Frankfurt,208 ms
+104.25.247.36,FRA,Europe,Frankfurt,208 ms
+104.23.122.33,FRA,Europe,Frankfurt,208 ms
+108.162.196.244,SJC,North America,San Jose,208 ms
+104.24.192.227,FRA,Europe,Frankfurt,208 ms
+104.25.121.235,FRA,Europe,Frankfurt,208 ms
+104.19.60.200,SJC,North America,San Jose,208 ms
+23.227.60.109,SJC,North America,San Jose,208 ms
+104.24.198.54,FRA,Europe,Frankfurt,208 ms
+104.19.21.95,SJC,North America,San Jose,208 ms
+104.24.228.49,FRA,Europe,Frankfurt,208 ms
+104.25.78.239,FRA,Europe,Frankfurt,208 ms
+104.25.165.209,FRA,Europe,Frankfurt,208 ms
+104.18.170.246,SJC,North America,San Jose,208 ms
+104.25.187.222,FRA,Europe,Frankfurt,208 ms
+104.16.1.6,SJC,North America,San Jose,208 ms
+104.16.10.202,SJC,North America,San Jose,208 ms
+104.18.23.111,LAX,North America,Los Angeles,208 ms
+104.24.60.70,FRA,Europe,Frankfurt,208 ms
+104.19.15.142,SJC,North America,San Jose,208 ms
+104.19.131.190,LAX,North America,Los Angeles,208 ms
+104.16.206.202,SJC,North America,San Jose,208 ms
+104.19.252.74,LAX,North America,Los Angeles,208 ms
+162.159.33.25,SJC,North America,San Jose,208 ms
+104.24.173.76,FRA,Europe,Frankfurt,208 ms
+104.17.131.167,SJC,North America,San Jose,209 ms
+104.25.198.232,FRA,Europe,Frankfurt,209 ms
+104.19.69.17,SJC,North America,San Jose,209 ms
+172.67.41.115,FRA,Europe,Frankfurt,209 ms
+104.24.40.250,FRA,Europe,Frankfurt,209 ms
+104.22.10.211,FRA,Europe,Frankfurt,209 ms
+104.24.153.129,FRA,Europe,Frankfurt,209 ms
+104.23.118.25,FRA,Europe,Frankfurt,209 ms
+104.27.84.214,FRA,Europe,Frankfurt,209 ms
+172.64.79.185,SJC,North America,San Jose,209 ms
+104.25.104.205,FRA,Europe,Frankfurt,209 ms
+104.24.29.49,FRA,Europe,Frankfurt,209 ms
+104.24.15.143,FRA,Europe,Frankfurt,209 ms
+104.19.255.91,LAX,North America,Los Angeles,209 ms
+104.17.159.2,SJC,North America,San Jose,209 ms
+104.25.172.241,FRA,Europe,Frankfurt,209 ms
+104.18.143.6,SJC,North America,San Jose,209 ms
+104.16.237.105,SJC,North America,San Jose,209 ms
+104.23.113.192,FRA,Europe,Frankfurt,210 ms
+104.17.10.27,SJC,North America,San Jose,210 ms
+104.25.241.227,FRA,Europe,Frankfurt,210 ms
+104.24.187.57,FRA,Europe,Frankfurt,210 ms
+104.25.92.36,FRA,Europe,Frankfurt,210 ms
+104.25.95.255,FRA,Europe,Frankfurt,210 ms
+104.17.77.40,SJC,North America,San Jose,210 ms
+104.25.43.176,FRA,Europe,Frankfurt,210 ms
+104.19.5.178,SJC,North America,San Jose,210 ms
+104.18.165.136,SJC,North America,San Jose,210 ms
+104.24.213.126,FRA,Europe,Frankfurt,210 ms
+104.22.36.22,FRA,Europe,Frankfurt,210 ms
+104.17.199.36,SJC,North America,San Jose,210 ms
+104.16.123.64,LAX,North America,Los Angeles,210 ms
+104.21.235.113,LAX,North America,Los Angeles,210 ms
+104.25.88.110,FRA,Europe,Frankfurt,210 ms
+104.16.32.115,SJC,North America,San Jose,210 ms
+104.19.185.136,SJC,North America,San Jose,210 ms
+104.16.199.110,SJC,North America,San Jose,210 ms
+172.67.29.203,FRA,Europe,Frankfurt,210 ms
+104.27.34.119,FRA,Europe,Frankfurt,210 ms
+104.17.219.69,SJC,North America,San Jose,210 ms
+162.159.136.73,FRA,Europe,Frankfurt,211 ms
+104.17.223.188,SJC,North America,San Jose,211 ms
+104.21.238.210,LAX,North America,Los Angeles,211 ms
+104.24.241.188,FRA,Europe,Frankfurt,211 ms
+162.159.45.12,LAX,North America,Los Angeles,211 ms
+104.18.20.22,LAX,North America,Los Angeles,211 ms
+104.18.196.186,SJC,North America,San Jose,211 ms
+104.24.83.90,FRA,Europe,Frankfurt,211 ms
+104.18.17.164,LAX,North America,Los Angeles,211 ms
+104.21.90.57,AMS,Europe,Amsterdam,211 ms
+104.18.26.10,LAX,North America,Los Angeles,211 ms
+104.25.212.45,FRA,Europe,Frankfurt,211 ms
+104.23.135.22,FRA,Europe,Frankfurt,211 ms
+104.19.88.81,SJC,North America,San Jose,211 ms
+104.24.91.11,FRA,Europe,Frankfurt,211 ms
+104.24.79.116,FRA,Europe,Frankfurt,211 ms
+104.16.55.87,SJC,North America,San Jose,211 ms
+104.19.134.126,LAX,North America,Los Angeles,211 ms
+162.159.242.105,LAX,North America,Los Angeles,212 ms
+104.25.12.231,FRA,Europe,Frankfurt,212 ms
+173.245.59.117,SJC,North America,San Jose,212 ms
+104.24.239.104,FRA,Europe,Frankfurt,212 ms
+104.25.35.207,FRA,Europe,Frankfurt,212 ms
+104.16.21.53,SJC,North America,San Jose,212 ms
+104.17.21.88,SJC,North America,San Jose,212 ms
+104.25.251.162,FRA,Europe,Frankfurt,212 ms
+104.24.14.118,FRA,Europe,Frankfurt,212 ms
+104.27.74.64,FRA,Europe,Frankfurt,212 ms
+104.17.73.89,SJC,North America,San Jose,212 ms
+172.67.127.66,FRA,Europe,Frankfurt,212 ms
+162.159.241.10,LAX,North America,Los Angeles,212 ms
+172.67.94.104,FRA,Europe,Frankfurt,212 ms
+104.27.78.153,FRA,Europe,Frankfurt,213 ms
+198.41.218.244,SJC,North America,San Jose,213 ms
+104.19.246.187,LAX,North America,Los Angeles,213 ms
+172.67.38.211,FRA,Europe,Frankfurt,213 ms
+104.24.138.160,FRA,Europe,Frankfurt,213 ms
+104.18.73.216,SJC,North America,San Jose,213 ms
+162.159.143.4,FRA,Europe,Frankfurt,213 ms
+104.19.139.123,LAX,North America,Los Angeles,213 ms
+104.25.174.57,FRA,Europe,Frankfurt,213 ms
+104.16.226.43,SJC,North America,San Jose,213 ms
+104.18.113.153,LAX,North America,Los Angeles,213 ms
+104.16.22.65,SJC,North America,San Jose,213 ms
+104.19.143.114,LAX,North America,Los Angeles,213 ms
+104.23.134.159,FRA,Europe,Frankfurt,213 ms
+104.18.31.209,LAX,North America,Los Angeles,213 ms
+172.64.86.168,SJC,North America,San Jose,214 ms
+104.27.58.252,FRA,Europe,Frankfurt,214 ms
+172.67.120.45,FRA,Europe,Frankfurt,214 ms
+104.25.36.183,FRA,Europe,Frankfurt,214 ms
+104.17.16.0,SJC,North America,San Jose,214 ms
+104.19.124.100,SJC,North America,San Jose,214 ms
+104.19.20.192,SJC,North America,San Jose,214 ms
+104.24.59.124,FRA,Europe,Frankfurt,214 ms
+104.24.9.63,FRA,Europe,Frankfurt,214 ms
+104.25.67.248,FRA,Europe,Frankfurt,214 ms
+104.24.149.63,FRA,Europe,Frankfurt,214 ms
+104.18.120.86,LAX,North America,Los Angeles,214 ms
+104.19.49.242,SJC,North America,San Jose,214 ms
+104.24.233.205,FRA,Europe,Frankfurt,214 ms
+172.64.98.201,AUS,North America,Austin,214 ms
+104.25.148.205,FRA,Europe,Frankfurt,214 ms
+104.27.44.210,FRA,Europe,Frankfurt,214 ms
+104.26.13.105,FRA,Europe,Frankfurt,214 ms
+104.18.228.227,SJC,North America,San Jose,214 ms
+172.67.26.137,FRA,Europe,Frankfurt,214 ms
+104.18.140.12,SJC,North America,San Jose,214 ms
+104.25.154.98,FRA,Europe,Frankfurt,214 ms
+104.18.123.145,LAX,North America,Los Angeles,214 ms
+162.159.246.59,LAX,North America,Los Angeles,214 ms
+104.22.6.51,FRA,Europe,Frankfurt,215 ms
+104.19.162.101,SJC,North America,San Jose,215 ms
+104.24.54.160,FRA,Europe,Frankfurt,215 ms
+172.66.40.206,SJC,North America,San Jose,215 ms
+104.25.125.101,FRA,Europe,Frankfurt,215 ms
+104.24.80.43,FRA,Europe,Frankfurt,215 ms
+104.25.204.30,FRA,Europe,Frankfurt,215 ms
+104.27.30.58,FRA,Europe,Frankfurt,215 ms
+104.25.219.179,FRA,Europe,Frankfurt,215 ms
+172.67.119.202,FRA,Europe,Frankfurt,215 ms
+104.17.64.129,SJC,North America,San Jose,215 ms
+172.67.70.58,FRA,Europe,Frankfurt,215 ms
+104.24.92.24,FRA,Europe,Frankfurt,215 ms
+104.25.40.223,FRA,Europe,Frankfurt,215 ms
+104.21.237.5,LAX,North America,Los Angeles,215 ms
+104.25.207.126,FRA,Europe,Frankfurt,215 ms
+104.19.248.195,LAX,North America,Los Angeles,215 ms
+104.17.26.114,SJC,North America,San Jose,215 ms
+104.24.69.131,FRA,Europe,Frankfurt,216 ms
+104.24.89.222,FRA,Europe,Frankfurt,216 ms
+104.25.255.148,FRA,Europe,Frankfurt,216 ms
+104.27.70.32,FRA,Europe,Frankfurt,216 ms
+104.24.167.123,FRA,Europe,Frankfurt,216 ms
+104.19.189.163,SJC,North America,San Jose,216 ms
+104.25.23.219,FRA,Europe,Frankfurt,216 ms
+172.67.10.209,FRA,Europe,Frankfurt,216 ms
+104.16.96.0,SJC,North America,San Jose,216 ms
+104.19.135.159,LAX,North America,Los Angeles,216 ms
+104.25.246.206,FRA,Europe,Frankfurt,216 ms
+162.159.43.176,FRA,Europe,Frankfurt,217 ms
+104.16.135.252,SJC,North America,San Jose,217 ms
+104.17.192.214,SJC,North America,San Jose,217 ms
+104.19.140.108,LAX,North America,Los Angeles,217 ms
+162.159.39.204,LAX,North America,Los Angeles,217 ms
+104.16.13.220,SJC,North America,San Jose,217 ms
+104.18.16.19,LAX,North America,Los Angeles,217 ms
+104.25.60.161,FRA,Europe,Frankfurt,217 ms
+104.18.42.118,SJC,North America,San Jose,217 ms
+104.27.6.32,FRA,Europe,Frankfurt,217 ms
+104.16.245.187,SJC,North America,San Jose,217 ms
+104.24.32.5,FRA,Europe,Frankfurt,217 ms
+104.24.74.52,FRA,Europe,Frankfurt,217 ms
+104.25.202.30,FRA,Europe,Frankfurt,217 ms
+104.24.168.172,FRA,Europe,Frankfurt,217 ms
+104.19.235.213,SJC,North America,San Jose,217 ms
+104.25.199.81,FRA,Europe,Frankfurt,217 ms
+172.67.21.55,FRA,Europe,Frankfurt,217 ms
+104.22.72.6,FRA,Europe,Frankfurt,217 ms
+104.17.227.118,SJC,North America,San Jose,217 ms
+104.24.180.130,FRA,Europe,Frankfurt,218 ms
+104.24.38.193,FRA,Europe,Frankfurt,218 ms
+104.16.65.53,SJC,North America,San Jose,218 ms
+104.19.42.188,SJC,North America,San Jose,218 ms
+104.24.139.3,FRA,Europe,Frankfurt,218 ms
+104.18.145.144,SJC,North America,San Jose,218 ms
+172.67.106.160,FRA,Europe,Frankfurt,218 ms
+104.19.55.252,SJC,North America,San Jose,218 ms
+104.27.66.94,FRA,Europe,Frankfurt,218 ms
+104.25.45.170,FRA,Europe,Frankfurt,218 ms
+104.18.205.253,SJC,North America,San Jose,218 ms
+104.25.122.143,FRA,Europe,Frankfurt,218 ms
+104.25.5.130,FRA,Europe,Frankfurt,218 ms
+172.65.222.6,FRA,Europe,Frankfurt,218 ms
+104.21.225.5,LAX,North America,Los Angeles,218 ms
+104.25.0.255,FRA,Europe,Frankfurt,219 ms
+104.22.17.16,FRA,Europe,Frankfurt,219 ms
+104.17.229.63,SJC,North America,San Jose,219 ms
+104.23.132.177,FRA,Europe,Frankfurt,219 ms
+104.19.54.50,SJC,North America,San Jose,219 ms
+104.24.47.13,FRA,Europe,Frankfurt,219 ms
+104.21.227.135,SJC,North America,San Jose,219 ms
+104.27.12.239,FRA,Europe,Frankfurt,219 ms
+104.18.239.189,SJC,North America,San Jose,219 ms
+104.24.75.152,FRA,Europe,Frankfurt,219 ms
+104.25.100.237,FRA,Europe,Frankfurt,219 ms
+104.25.13.129,FRA,Europe,Frankfurt,219 ms
+104.24.196.121,FRA,Europe,Frankfurt,219 ms
+104.23.121.22,FRA,Europe,Frankfurt,219 ms
+104.16.2.102,SJC,North America,San Jose,219 ms
+104.18.112.184,LAX,North America,Los Angeles,219 ms
+104.27.23.73,FRA,Europe,Frankfurt,220 ms
+104.25.39.195,FRA,Europe,Frankfurt,220 ms
+172.64.230.7,SJC,North America,San Jose,220 ms
+104.19.75.220,SJC,North America,San Jose,220 ms
+104.24.209.210,FRA,Europe,Frankfurt,220 ms
+104.23.115.228,FRA,Europe,Frankfurt,220 ms
+108.162.192.15,SJC,North America,San Jose,220 ms
+104.27.127.30,FRA,Europe,Frankfurt,220 ms
+172.67.93.155,FRA,Europe,Frankfurt,220 ms
+104.25.69.247,FRA,Europe,Frankfurt,220 ms
+104.16.6.116,SJC,North America,San Jose,220 ms
+104.18.109.198,SJC,North America,San Jose,220 ms
+104.17.243.126,SJC,North America,San Jose,220 ms
+104.24.65.150,FRA,Europe,Frankfurt,221 ms
+162.159.240.29,LAX,North America,Los Angeles,221 ms
+104.19.136.164,LAX,North America,Los Angeles,221 ms
+66.235.200.52,SJC,North America,San Jose,221 ms
+104.25.184.138,FRA,Europe,Frankfurt,221 ms
+104.22.41.145,FRA,Europe,Frankfurt,221 ms
+104.19.70.114,SJC,North America,San Jose,221 ms
+104.17.238.32,SJC,North America,San Jose,221 ms
+162.159.38.213,LAX,North America,Los Angeles,221 ms
+104.19.65.247,SJC,North America,San Jose,221 ms
+104.18.155.239,SJC,North America,San Jose,221 ms
+104.18.193.11,SJC,North America,San Jose,221 ms
+104.22.7.131,FRA,Europe,Frankfurt,221 ms
+104.16.192.129,SJC,North America,San Jose,221 ms
+104.27.193.133,FRA,Europe,Frankfurt,221 ms
+104.25.130.241,FRA,Europe,Frankfurt,222 ms
+172.67.20.54,FRA,Europe,Frankfurt,222 ms
+104.17.25.149,SJC,North America,San Jose,222 ms
+104.19.196.119,SJC,North America,San Jose,222 ms
+104.24.66.177,FRA,Europe,Frankfurt,222 ms
+104.25.52.204,FRA,Europe,Frankfurt,222 ms
+104.16.122.59,LAX,North America,Los Angeles,222 ms
+104.24.200.79,FRA,Europe,Frankfurt,222 ms
+104.25.93.230,FRA,Europe,Frankfurt,222 ms
+104.25.213.147,FRA,Europe,Frankfurt,222 ms
+104.27.71.21,FRA,Europe,Frankfurt,222 ms
+104.25.129.197,FRA,Europe,Frankfurt,222 ms
+104.24.232.97,FRA,Europe,Frankfurt,222 ms
+104.25.203.172,FRA,Europe,Frankfurt,223 ms
+104.22.42.113,FRA,Europe,Frankfurt,223 ms
+104.25.7.24,FRA,Europe,Frankfurt,223 ms
+104.24.214.113,FRA,Europe,Frankfurt,223 ms
+104.18.159.170,SJC,North America,San Jose,223 ms
+104.16.116.159,LAX,North America,Los Angeles,223 ms
+104.22.33.98,FRA,Europe,Frankfurt,223 ms
+104.17.250.30,SJC,North America,San Jose,223 ms
+104.21.193.135,AMS,Europe,Amsterdam,223 ms
+172.67.78.174,FRA,Europe,Frankfurt,223 ms
+104.24.179.33,FRA,Europe,Frankfurt,223 ms
+104.24.152.169,FRA,Europe,Frankfurt,223 ms
+104.24.135.216,FRA,Europe,Frankfurt,223 ms
+104.16.94.225,SJC,North America,San Jose,224 ms
+104.21.16.28,AMS,Europe,Amsterdam,224 ms
+104.27.96.114,FRA,Europe,Frankfurt,224 ms
+104.24.224.42,FRA,Europe,Frankfurt,224 ms
+104.18.36.20,LAX,North America,Los Angeles,224 ms
+104.25.76.250,FRA,Europe,Frankfurt,224 ms
+104.24.157.36,FRA,Europe,Frankfurt,224 ms
+104.19.50.169,SJC,North America,San Jose,224 ms
+104.27.29.243,FRA,Europe,Frankfurt,224 ms
+104.20.14.209,FRA,Europe,Frankfurt,224 ms
+104.24.136.164,FRA,Europe,Frankfurt,224 ms
+104.16.232.84,SJC,North America,San Jose,224 ms
+104.22.9.167,FRA,Europe,Frankfurt,224 ms
+104.23.110.140,FRA,Europe,Frankfurt,224 ms
+104.22.25.110,FRA,Europe,Frankfurt,224 ms
+104.16.230.194,SJC,North America,San Jose,224 ms
+104.18.106.29,SJC,North America,San Jose,225 ms
+172.64.154.42,SJC,North America,San Jose,225 ms
+104.23.124.73,FRA,Europe,Frankfurt,225 ms
+104.16.158.147,SJC,North America,San Jose,225 ms
+104.21.59.87,AMS,Europe,Amsterdam,225 ms
+104.24.181.49,FRA,Europe,Frankfurt,225 ms
+104.16.170.144,SJC,North America,San Jose,225 ms
+104.25.183.161,FRA,Europe,Frankfurt,225 ms
+104.19.141.179,LAX,North America,Los Angeles,225 ms
+104.19.132.197,LAX,North America,Los Angeles,225 ms
+104.25.82.67,FRA,Europe,Frankfurt,225 ms
+104.16.117.165,LAX,North America,Los Angeles,225 ms
+162.159.34.161,FRA,Europe,Frankfurt,225 ms
+104.21.200.58,AMS,Europe,Amsterdam,225 ms
+172.67.147.131,AMS,Europe,Amsterdam,225 ms
+172.67.190.226,AMS,Europe,Amsterdam,225 ms
+104.16.125.229,LAX,North America,Los Angeles,225 ms
+104.23.109.228,FRA,Europe,Frankfurt,225 ms
+104.25.252.239,FRA,Europe,Frankfurt,226 ms
+104.18.252.249,SJC,North America,San Jose,226 ms
+104.19.225.186,SJC,North America,San Jose,226 ms
+104.19.4.174,SJC,North America,San Jose,226 ms
+104.17.173.114,SJC,North America,San Jose,226 ms
+104.19.128.9,LAX,North America,Los Angeles,226 ms
+104.27.68.79,FRA,Europe,Frankfurt,226 ms
+104.16.27.201,SJC,North America,San Jose,226 ms
+104.19.254.227,LAX,North America,Los Angeles,226 ms
+104.25.106.139,FRA,Europe,Frankfurt,226 ms
+104.21.216.242,AMS,Europe,Amsterdam,226 ms
+104.21.68.226,AMS,Europe,Amsterdam,226 ms
+104.25.65.139,FRA,Europe,Frankfurt,226 ms
+104.21.232.202,LAX,North America,Los Angeles,226 ms
+104.25.38.215,FRA,Europe,Frankfurt,226 ms
+104.19.133.33,LAX,North America,Los Angeles,226 ms
+104.21.49.213,AMS,Europe,Amsterdam,226 ms
+172.67.167.3,AMS,Europe,Amsterdam,226 ms
+104.17.35.171,SJC,North America,San Jose,226 ms
+162.159.248.183,LAX,North America,Los Angeles,226 ms
+104.18.118.19,LAX,North America,Los Angeles,226 ms
+104.17.252.246,SJC,North America,San Jose,226 ms
+104.19.200.161,SJC,North America,San Jose,227 ms
+104.18.227.21,SJC,North America,San Jose,227 ms
+104.19.243.236,LAX,North America,Los Angeles,227 ms
+104.16.17.192,SJC,North America,San Jose,227 ms
+104.25.145.66,FRA,Europe,Frankfurt,227 ms
+104.16.121.69,LAX,North America,Los Angeles,227 ms
+104.25.109.204,FRA,Europe,Frankfurt,227 ms
+104.18.147.82,SJC,North America,San Jose,227 ms
+104.24.23.234,FRA,Europe,Frankfurt,227 ms
+104.25.239.19,FRA,Europe,Frankfurt,227 ms
+104.27.14.192,FRA,Europe,Frankfurt,227 ms
+104.25.243.40,FRA,Europe,Frankfurt,227 ms
+172.65.243.233,LHR,Europe,London,227 ms
+104.21.74.223,AMS,Europe,Amsterdam,228 ms
+104.16.184.15,SJC,North America,San Jose,228 ms
+104.18.230.227,SJC,North America,San Jose,228 ms
+104.18.217.9,SJC,North America,San Jose,228 ms
+172.67.149.222,AMS,Europe,Amsterdam,228 ms
+104.16.72.168,SJC,North America,San Jose,228 ms
+104.16.7.232,SJC,North America,San Jose,228 ms
+104.19.247.31,LAX,North America,Los Angeles,228 ms
+104.25.196.20,FRA,Europe,Frankfurt,228 ms
+162.159.19.108,SJC,North America,San Jose,228 ms
+104.21.112.99,AMS,Europe,Amsterdam,228 ms
+104.16.8.156,SJC,North America,San Jose,228 ms
+104.21.219.176,AMS,Europe,Amsterdam,228 ms
+104.25.14.173,FRA,Europe,Frankfurt,228 ms
+104.25.9.236,FRA,Europe,Frankfurt,228 ms
+104.16.15.241,SJC,North America,San Jose,228 ms
+104.24.237.132,FRA,Europe,Frankfurt,228 ms
+104.19.184.209,SJC,North America,San Jose,228 ms
+104.19.242.165,LAX,North America,Los Angeles,228 ms
+172.67.162.146,AMS,Europe,Amsterdam,229 ms
+104.27.87.249,FRA,Europe,Frankfurt,229 ms
+104.22.57.146,FRA,Europe,Frankfurt,229 ms
+104.21.21.254,AMS,Europe,Amsterdam,229 ms
+104.21.37.228,AMS,Europe,Amsterdam,229 ms
+104.19.142.198,LAX,North America,Los Angeles,229 ms
+104.21.196.109,AMS,Europe,Amsterdam,229 ms
+172.67.136.101,AMS,Europe,Amsterdam,229 ms
+104.24.225.183,FRA,Europe,Frankfurt,229 ms
+104.20.15.183,FRA,Europe,Frankfurt,229 ms
+104.21.44.142,AMS,Europe,Amsterdam,229 ms
+104.18.242.229,SJC,North America,San Jose,229 ms
+104.25.180.108,FRA,Europe,Frankfurt,229 ms
+104.27.13.230,FRA,Europe,Frankfurt,229 ms
+172.67.65.159,FRA,Europe,Frankfurt,229 ms
+104.18.162.46,SJC,North America,San Jose,229 ms
+104.25.63.207,FRA,Europe,Frankfurt,230 ms
+104.21.0.196,AMS,Europe,Amsterdam,230 ms
+104.25.181.26,FRA,Europe,Frankfurt,230 ms
+104.24.50.110,FRA,Europe,Frankfurt,230 ms
+104.16.77.136,SJC,North America,San Jose,230 ms
+104.21.45.70,AMS,Europe,Amsterdam,230 ms
+198.41.215.254,SJC,North America,San Jose,230 ms
+104.16.248.59,SJC,North America,San Jose,230 ms
+104.22.58.69,FRA,Europe,Frankfurt,230 ms
+104.25.1.67,FRA,Europe,Frankfurt,230 ms
+104.25.159.158,FRA,Europe,Frankfurt,230 ms
+198.41.206.228,SJC,North America,San Jose,230 ms
+172.67.161.36,AMS,Europe,Amsterdam,230 ms
+104.24.48.216,FRA,Europe,Frankfurt,230 ms
+104.21.19.17,AMS,Europe,Amsterdam,230 ms
+104.18.188.196,SJC,North America,San Jose,230 ms
+104.23.100.88,FRA,Europe,Frankfurt,231 ms
+104.24.51.242,FRA,Europe,Frankfurt,231 ms
+172.67.227.100,AMS,Europe,Amsterdam,231 ms
+104.18.176.77,SJC,North America,San Jose,231 ms
+104.25.57.211,FRA,Europe,Frankfurt,231 ms
+104.23.107.245,FRA,Europe,Frankfurt,231 ms
+198.41.203.12,SJC,North America,San Jose,231 ms
+104.25.107.26,FRA,Europe,Frankfurt,231 ms
+104.19.129.225,LAX,North America,Los Angeles,231 ms
+104.21.20.244,AMS,Europe,Amsterdam,231 ms
+104.16.59.252,SJC,North America,San Jose,231 ms
+172.67.166.112,AMS,Europe,Amsterdam,231 ms
+104.18.119.137,LAX,North America,Los Angeles,231 ms
+104.18.177.193,SJC,North America,San Jose,231 ms
+104.23.125.197,FRA,Europe,Frankfurt,231 ms
+104.19.130.68,LAX,North America,Los Angeles,231 ms
+162.159.245.22,LAX,North America,Los Angeles,231 ms
+104.17.174.81,SJC,North America,San Jose,231 ms
+104.21.107.233,AMS,Europe,Amsterdam,231 ms
+172.67.211.232,AMS,Europe,Amsterdam,232 ms
+104.25.173.84,FRA,Europe,Frankfurt,232 ms
+104.17.140.149,SJC,North America,San Jose,232 ms
+104.24.129.19,FRA,Europe,Frankfurt,232 ms
+172.67.160.154,AMS,Europe,Amsterdam,232 ms
+162.159.1.116,SJC,North America,San Jose,232 ms
+104.22.35.204,FRA,Europe,Frankfurt,232 ms
+104.24.247.172,FRA,Europe,Frankfurt,232 ms
+104.21.239.112,LAX,North America,Los Angeles,232 ms
+104.17.205.64,SJC,North America,San Jose,232 ms
+104.21.197.135,AMS,Europe,Amsterdam,232 ms
+104.24.194.174,FRA,Europe,Frankfurt,232 ms
+172.67.213.61,AMS,Europe,Amsterdam,233 ms
+104.21.103.237,AMS,Europe,Amsterdam,233 ms
+172.67.202.237,AMS,Europe,Amsterdam,233 ms
+104.24.128.223,FRA,Europe,Frankfurt,233 ms
+172.67.150.242,AMS,Europe,Amsterdam,233 ms
+172.67.176.110,AMS,Europe,Amsterdam,233 ms
+104.21.13.161,AMS,Europe,Amsterdam,233 ms
+104.21.53.80,AMS,Europe,Amsterdam,233 ms
+172.67.218.177,AMS,Europe,Amsterdam,233 ms
+104.21.109.173,AMS,Europe,Amsterdam,233 ms
+104.27.27.119,FRA,Europe,Frankfurt,233 ms
+104.19.57.183,SJC,North America,San Jose,233 ms
+172.67.137.59,AMS,Europe,Amsterdam,233 ms
+104.24.212.51,FRA,Europe,Frankfurt,233 ms
+172.67.174.161,AMS,Europe,Amsterdam,233 ms
+172.67.135.177,AMS,Europe,Amsterdam,233 ms
+104.18.225.252,SJC,North America,San Jose,233 ms
+104.16.216.90,SJC,North America,San Jose,233 ms
+104.19.144.64,SJC,North America,San Jose,233 ms
+104.21.52.65,AMS,Europe,Amsterdam,233 ms
+104.25.2.165,FRA,Europe,Frankfurt,234 ms
+104.25.101.143,FRA,Europe,Frankfurt,234 ms
+104.25.226.213,FRA,Europe,Frankfurt,234 ms
+104.18.28.77,LAX,North America,Los Angeles,234 ms
+172.67.142.164,AMS,Europe,Amsterdam,234 ms
+172.67.201.222,AMS,Europe,Amsterdam,234 ms
+104.25.24.183,FRA,Europe,Frankfurt,234 ms
+104.19.232.57,SJC,North America,San Jose,234 ms
+104.24.88.11,FRA,Europe,Frankfurt,234 ms
+104.24.215.192,FRA,Europe,Frankfurt,234 ms
+104.17.86.64,SJC,North America,San Jose,234 ms
+104.18.116.185,LAX,North America,Los Angeles,234 ms
+172.67.188.53,AMS,Europe,Amsterdam,235 ms
+104.16.115.40,LAX,North America,Los Angeles,235 ms
+104.25.206.31,FRA,Europe,Frankfurt,235 ms
+104.18.201.59,SJC,North America,San Jose,235 ms
+104.23.104.91,FRA,Europe,Frankfurt,235 ms
+172.67.207.10,AMS,Europe,Amsterdam,235 ms
+104.21.95.154,AMS,Europe,Amsterdam,235 ms
+172.67.204.127,AMS,Europe,Amsterdam,235 ms
+172.67.111.34,FRA,Europe,Frankfurt,235 ms
+104.17.61.81,SJC,North America,San Jose,235 ms
+172.67.232.93,AMS,Europe,Amsterdam,235 ms
+104.16.50.162,SJC,North America,San Jose,235 ms
+104.18.249.207,SJC,North America,San Jose,235 ms
+104.24.248.32,FRA,Europe,Frankfurt,235 ms
+104.25.167.121,FRA,Europe,Frankfurt,235 ms
+104.21.218.246,AMS,Europe,Amsterdam,235 ms
+104.21.127.19,AMS,Europe,Amsterdam,235 ms
+104.24.172.47,FRA,Europe,Frankfurt,235 ms
+104.27.90.107,FRA,Europe,Frankfurt,236 ms
+104.27.89.215,FRA,Europe,Frankfurt,236 ms
+104.24.71.240,FRA,Europe,Frankfurt,236 ms
+104.19.94.208,SJC,North America,San Jose,236 ms
+104.24.156.228,FRA,Europe,Frankfurt,236 ms
+172.67.196.113,AMS,Europe,Amsterdam,236 ms
+104.21.14.244,AMS,Europe,Amsterdam,236 ms
+172.67.228.132,AMS,Europe,Amsterdam,236 ms
+162.159.44.91,LAX,North America,Los Angeles,236 ms
+104.21.75.115,AMS,Europe,Amsterdam,236 ms
+104.21.24.100,AMS,Europe,Amsterdam,236 ms
+104.24.208.194,FRA,Europe,Frankfurt,236 ms
+104.25.32.169,FRA,Europe,Frankfurt,236 ms
+104.25.22.244,FRA,Europe,Frankfurt,236 ms
+104.27.82.161,FRA,Europe,Frankfurt,236 ms
+104.25.193.54,FRA,Europe,Frankfurt,236 ms
+104.16.147.115,SJC,North America,San Jose,237 ms
+172.67.234.96,AMS,Europe,Amsterdam,237 ms
+104.17.20.28,SJC,North America,San Jose,237 ms
+104.24.13.156,FRA,Europe,Frankfurt,237 ms
+104.18.124.252,LAX,North America,Los Angeles,237 ms
+104.25.116.51,FRA,Europe,Frankfurt,237 ms
+104.21.35.102,AMS,Europe,Amsterdam,237 ms
+104.21.102.123,AMS,Europe,Amsterdam,237 ms
+104.23.117.226,FRA,Europe,Frankfurt,237 ms
+104.21.60.74,AMS,Europe,Amsterdam,237 ms
+104.19.172.23,SJC,North America,San Jose,237 ms
+104.21.120.25,AMS,Europe,Amsterdam,237 ms
+104.19.147.176,SJC,North America,San Jose,238 ms
+104.21.42.213,AMS,Europe,Amsterdam,238 ms
+104.16.235.192,SJC,North America,San Jose,238 ms
+104.18.25.170,LAX,North America,Los Angeles,238 ms
+104.19.58.132,SJC,North America,San Jose,238 ms
+104.27.61.5,FRA,Europe,Frankfurt,238 ms
+104.25.105.139,FRA,Europe,Frankfurt,238 ms
+104.19.30.68,SJC,North America,San Jose,239 ms
+104.21.8.79,AMS,Europe,Amsterdam,239 ms
+104.16.89.55,SJC,North America,San Jose,239 ms
+172.64.100.198,BUF,North America,Buffalo,239 ms
+162.159.237.102,SJC,North America,San Jose,239 ms
+104.22.37.226,FRA,Europe,Frankfurt,239 ms
+104.21.101.171,AMS,Europe,Amsterdam,239 ms
+104.21.96.83,AMS,Europe,Amsterdam,239 ms
+104.21.11.104,AMS,Europe,Amsterdam,239 ms
+104.17.228.138,SJC,North America,San Jose,239 ms
+104.24.230.157,FRA,Europe,Frankfurt,240 ms
+104.21.10.161,AMS,Europe,Amsterdam,240 ms
+104.19.27.26,SJC,North America,San Jose,240 ms
+104.19.244.151,LAX,North America,Los Angeles,240 ms
+104.16.166.219,SJC,North America,San Jose,240 ms
+104.16.187.96,SJC,North America,San Jose,240 ms
+104.25.8.192,FRA,Europe,Frankfurt,240 ms
+104.21.208.26,AMS,Europe,Amsterdam,240 ms
+104.17.158.109,SJC,North America,San Jose,241 ms
+104.24.221.211,FRA,Europe,Frankfurt,241 ms
+104.16.33.157,SJC,North America,San Jose,241 ms
+104.20.2.96,FRA,Europe,Frankfurt,241 ms
+104.21.6.181,AMS,Europe,Amsterdam,242 ms
+104.24.18.102,FRA,Europe,Frankfurt,242 ms
+104.16.20.161,SJC,North America,San Jose,242 ms
+104.19.230.178,SJC,North America,San Jose,242 ms
+104.18.121.140,LAX,North America,Los Angeles,243 ms
+104.18.222.49,SJC,North America,San Jose,243 ms
+104.21.25.82,AMS,Europe,Amsterdam,243 ms
+162.159.209.91,BUF,North America,Buffalo,243 ms
+104.18.235.190,SJC,North America,San Jose,243 ms
+172.67.178.152,AMS,Europe,Amsterdam,244 ms
+104.24.30.253,FRA,Europe,Frankfurt,244 ms
+104.17.147.169,SJC,North America,San Jose,244 ms
+104.17.74.253,SJC,North America,San Jose,244 ms
+104.27.98.232,FRA,Europe,Frankfurt,244 ms
+172.67.222.29,AMS,Europe,Amsterdam,244 ms
+104.18.18.12,LAX,North America,Los Angeles,244 ms
+172.67.254.147,AMS,Europe,Amsterdam,244 ms
+104.16.197.97,SJC,North America,San Jose,245 ms
+104.17.225.113,SJC,North America,San Jose,245 ms
+104.16.195.52,SJC,North America,San Jose,245 ms
+104.24.140.148,FRA,Europe,Frankfurt,245 ms
+104.16.220.178,SJC,North America,San Jose,245 ms
+104.16.190.209,SJC,North America,San Jose,246 ms
+104.24.229.150,FRA,Europe,Frankfurt,246 ms
+104.27.4.197,FRA,Europe,Frankfurt,246 ms
+104.16.130.57,SJC,North America,San Jose,246 ms
+104.17.152.60,SJC,North America,San Jose,246 ms
+104.19.174.178,SJC,North America,San Jose,247 ms
+104.16.83.119,SJC,North America,San Jose,247 ms
+104.27.0.96,FRA,Europe,Frankfurt,247 ms
+104.18.125.32,LAX,North America,Los Angeles,247 ms
+104.19.219.24,SJC,North America,San Jose,247 ms
+104.22.5.73,FRA,Europe,Frankfurt,247 ms
+104.19.214.131,SJC,North America,San Jose,247 ms
+198.41.197.181,SJC,North America,San Jose,248 ms
+104.22.62.101,FRA,Europe,Frankfurt,248 ms
+104.19.80.60,SJC,North America,San Jose,248 ms
+104.24.63.110,FRA,Europe,Frankfurt,248 ms
+104.27.77.102,FRA,Europe,Frankfurt,249 ms
+104.16.132.183,SJC,North America,San Jose,249 ms
+104.27.75.61,FRA,Europe,Frankfurt,249 ms
+104.16.153.177,SJC,North America,San Jose,249 ms
+162.159.23.249,SJC,North America,San Jose,249 ms
+172.67.197.61,AMS,Europe,Amsterdam,249 ms
+104.25.166.222,FRA,Europe,Frankfurt,249 ms
+104.24.4.196,FRA,Europe,Frankfurt,249 ms
+104.18.229.70,SJC,North America,San Jose,249 ms
+104.16.42.37,SJC,North America,San Jose,249 ms
+172.67.224.91,AMS,Europe,Amsterdam,250 ms
+172.67.140.79,AMS,Europe,Amsterdam,250 ms
+172.67.219.133,AMS,Europe,Amsterdam,250 ms
+104.19.198.237,SJC,North America,San Jose,250 ms
+104.21.47.234,AMS,Europe,Amsterdam,250 ms
+104.25.242.81,FRA,Europe,Frankfurt,250 ms
+104.17.39.169,SJC,North America,San Jose,250 ms
+104.25.51.97,FRA,Europe,Frankfurt,251 ms
+104.21.57.93,AMS,Europe,Amsterdam,251 ms
+104.25.244.61,FRA,Europe,Frankfurt,251 ms
+104.18.103.220,SJC,North America,San Jose,251 ms
+172.64.66.27,SJC,North America,San Jose,251 ms
+104.16.93.182,SJC,North America,San Jose,251 ms
+104.17.23.252,SJC,North America,San Jose,251 ms
+104.25.81.41,FRA,Europe,Frankfurt,252 ms
+104.25.4.192,FRA,Europe,Frankfurt,252 ms
+104.16.74.243,SJC,North America,San Jose,252 ms
+104.23.131.2,FRA,Europe,Frankfurt,252 ms
+104.16.53.102,SJC,North America,San Jose,252 ms
+104.25.146.182,FRA,Europe,Frankfurt,253 ms
+104.18.238.156,SJC,North America,San Jose,253 ms
+104.18.248.2,SJC,North America,San Jose,253 ms
+104.19.187.95,SJC,North America,San Jose,253 ms
+104.24.68.32,FRA,Europe,Frankfurt,253 ms
+104.17.91.239,SJC,North America,San Jose,253 ms
+172.66.2.22,SJC,North America,San Jose,254 ms
+172.67.97.114,FRA,Europe,Frankfurt,254 ms
+104.18.95.131,SJC,North America,San Jose,254 ms
+104.16.193.165,SJC,North America,San Jose,254 ms
+172.67.236.67,AMS,Europe,Amsterdam,255 ms
+104.20.4.157,FRA,Europe,Frankfurt,255 ms
+104.24.26.115,FRA,Europe,Frankfurt,255 ms
+104.23.97.222,FRA,Europe,Frankfurt,255 ms
+104.25.234.79,FRA,Europe,Frankfurt,256 ms
+104.17.198.80,SJC,North America,San Jose,256 ms
+104.19.9.216,SJC,North America,San Jose,256 ms
+104.16.223.73,SJC,North America,San Jose,256 ms
+104.18.40.39,SJC,North America,San Jose,256 ms
+104.17.169.142,SJC,North America,San Jose,256 ms
+104.18.43.140,SJC,North America,San Jose,256 ms
+104.24.45.188,FRA,Europe,Frankfurt,256 ms
+104.19.96.151,SJC,North America,San Jose,256 ms
+104.18.233.242,SJC,North America,San Jose,256 ms
+104.17.82.216,SJC,North America,San Jose,257 ms
+104.19.90.89,SJC,North America,San Jose,257 ms
+104.24.46.122,FRA,Europe,Frankfurt,257 ms
+104.16.233.141,SJC,North America,San Jose,257 ms
+104.16.228.239,SJC,North America,San Jose,257 ms
+104.24.191.208,FRA,Europe,Frankfurt,257 ms
+104.24.159.177,FRA,Europe,Frankfurt,257 ms
+104.25.62.3,FRA,Europe,Frankfurt,257 ms
+104.17.172.239,SJC,North America,San Jose,257 ms
+198.41.219.138,SJC,North America,San Jose,257 ms
+104.18.87.193,SJC,North America,San Jose,258 ms
+104.27.24.126,FRA,Europe,Frankfurt,258 ms
+104.21.94.135,AMS,Europe,Amsterdam,258 ms
+104.19.28.18,SJC,North America,San Jose,258 ms
+104.16.41.92,SJC,North America,San Jose,258 ms
+104.16.148.58,SJC,North America,San Jose,258 ms
+104.17.224.198,SJC,North America,San Jose,259 ms
+104.19.64.98,SJC,North America,San Jose,259 ms
+104.16.189.93,SJC,North America,San Jose,259 ms
+104.17.3.2,SJC,North America,San Jose,259 ms
+104.18.88.14,SJC,North America,San Jose,260 ms
+104.18.191.81,SJC,North America,San Jose,260 ms
+104.23.138.164,FRA,Europe,Frankfurt,260 ms
+104.18.122.5,LAX,North America,Los Angeles,260 ms
+172.64.101.77,BUF,North America,Buffalo,260 ms
+198.41.214.59,SJC,North America,San Jose,261 ms
+104.17.27.18,SJC,North America,San Jose,261 ms
+104.18.163.100,SJC,North America,San Jose,261 ms
+104.17.117.187,SJC,North America,San Jose,262 ms
+104.16.207.145,SJC,North America,San Jose,262 ms
+104.16.178.159,SJC,North America,San Jose,262 ms
+104.25.168.182,FRA,Europe,Frankfurt,262 ms
+104.16.91.68,SJC,North America,San Jose,263 ms
+104.22.74.51,FRA,Europe,Frankfurt,263 ms
+104.19.98.177,SJC,North America,San Jose,263 ms
+104.25.210.93,FRA,Europe,Frankfurt,263 ms
+104.25.90.120,FRA,Europe,Frankfurt,263 ms
+104.19.188.133,SJC,North America,San Jose,264 ms
+104.21.233.149,LAX,North America,Los Angeles,264 ms
+162.159.60.163,SJC,North America,San Jose,265 ms
+104.19.3.172,SJC,North America,San Jose,266 ms
+172.64.78.86,MIA,North America,Miami,266 ms
+104.24.6.184,FRA,Europe,Frankfurt,266 ms
+104.19.12.99,SJC,North America,San Jose,266 ms
+104.16.58.197,SJC,North America,San Jose,266 ms
+104.24.220.104,FRA,Europe,Frankfurt,266 ms
+104.16.182.156,SJC,North America,San Jose,266 ms
+104.21.105.56,AMS,Europe,Amsterdam,266 ms
+104.16.128.178,SJC,North America,San Jose,267 ms
+104.17.28.234,SJC,North America,San Jose,267 ms
+172.67.244.95,AMS,Europe,Amsterdam,267 ms
+104.19.114.128,SJC,North America,San Jose,267 ms
+104.17.98.233,SJC,North America,San Jose,267 ms
+104.17.151.116,SJC,North America,San Jose,267 ms
+172.67.221.61,AMS,Europe,Amsterdam,268 ms
+104.19.43.236,SJC,North America,San Jose,268 ms
+172.67.156.124,AMS,Europe,Amsterdam,268 ms
+104.27.36.21,FRA,Europe,Frankfurt,268 ms
+104.18.21.197,LAX,North America,Los Angeles,268 ms
+104.21.206.11,AMS,Europe,Amsterdam,269 ms
+172.67.225.76,AMS,Europe,Amsterdam,269 ms
+104.19.216.188,SJC,North America,San Jose,269 ms
+104.21.221.7,AMS,Europe,Amsterdam,269 ms
+104.21.83.190,AMS,Europe,Amsterdam,269 ms
+172.67.155.91,AMS,Europe,Amsterdam,269 ms
+104.19.46.91,SJC,North America,San Jose,269 ms
+104.16.37.30,SJC,North America,San Jose,269 ms
+172.67.186.146,AMS,Europe,Amsterdam,269 ms
+172.67.246.120,AMS,Europe,Amsterdam,269 ms
+104.18.174.86,SJC,North America,San Jose,270 ms
+172.67.205.22,AMS,Europe,Amsterdam,270 ms
+104.21.113.20,AMS,Europe,Amsterdam,270 ms
+104.21.87.48,AMS,Europe,Amsterdam,270 ms
+172.67.187.198,AMS,Europe,Amsterdam,270 ms
+104.21.115.122,AMS,Europe,Amsterdam,270 ms
+104.18.24.247,LAX,North America,Los Angeles,270 ms
+104.17.105.59,SJC,North America,San Jose,270 ms
+172.67.134.196,AMS,Europe,Amsterdam,270 ms
+104.21.84.147,AMS,Europe,Amsterdam,270 ms
+104.19.112.100,SJC,North America,San Jose,271 ms
+172.67.247.171,AMS,Europe,Amsterdam,271 ms
+172.67.203.31,AMS,Europe,Amsterdam,271 ms
+104.21.121.142,AMS,Europe,Amsterdam,271 ms
+172.67.248.27,AMS,Europe,Amsterdam,271 ms
+104.21.71.219,AMS,Europe,Amsterdam,271 ms
+104.21.1.119,AMS,Europe,Amsterdam,271 ms
+104.21.209.31,AMS,Europe,Amsterdam,271 ms
+104.21.69.71,AMS,Europe,Amsterdam,271 ms
+104.21.48.185,AMS,Europe,Amsterdam,271 ms
+172.67.195.107,AMS,Europe,Amsterdam,271 ms
+172.67.151.96,AMS,Europe,Amsterdam,272 ms
+172.67.175.240,AMS,Europe,Amsterdam,272 ms
+104.21.119.35,AMS,Europe,Amsterdam,272 ms
+104.21.31.32,AMS,Europe,Amsterdam,272 ms
+172.67.184.125,AMS,Europe,Amsterdam,272 ms
+104.21.126.223,AMS,Europe,Amsterdam,272 ms
+172.67.129.42,AMS,Europe,Amsterdam,272 ms
+104.21.93.1,AMS,Europe,Amsterdam,272 ms
+172.67.157.79,AMS,Europe,Amsterdam,272 ms
+104.17.33.7,SJC,North America,San Jose,272 ms
+172.67.181.220,AMS,Europe,Amsterdam,272 ms
+172.67.153.58,AMS,Europe,Amsterdam,272 ms
+104.21.117.27,AMS,Europe,Amsterdam,272 ms
+104.21.76.119,AMS,Europe,Amsterdam,272 ms
+172.67.133.67,AMS,Europe,Amsterdam,273 ms
+104.21.92.70,AMS,Europe,Amsterdam,273 ms
+104.21.86.111,AMS,Europe,Amsterdam,273 ms
+104.21.91.222,AMS,Europe,Amsterdam,273 ms
+172.67.240.2,AMS,Europe,Amsterdam,273 ms
+104.21.108.54,AMS,Europe,Amsterdam,273 ms
+172.67.172.212,AMS,Europe,Amsterdam,273 ms
+104.21.4.116,AMS,Europe,Amsterdam,273 ms
+104.21.212.188,AMS,Europe,Amsterdam,273 ms
+172.67.180.49,AMS,Europe,Amsterdam,273 ms
+104.21.43.213,AMS,Europe,Amsterdam,273 ms
+104.21.61.140,AMS,Europe,Amsterdam,273 ms
+172.67.208.178,AMS,Europe,Amsterdam,273 ms
+172.67.249.208,AMS,Europe,Amsterdam,273 ms
+104.21.210.219,AMS,Europe,Amsterdam,273 ms
+172.67.209.154,AMS,Europe,Amsterdam,273 ms
+104.21.203.55,AMS,Europe,Amsterdam,273 ms
+104.19.53.219,SJC,North America,San Jose,273 ms
+104.16.76.108,SJC,North America,San Jose,273 ms
+172.67.251.148,AMS,Europe,Amsterdam,273 ms
+104.21.38.160,AMS,Europe,Amsterdam,274 ms
+104.21.18.84,AMS,Europe,Amsterdam,274 ms
+104.21.89.134,AMS,Europe,Amsterdam,274 ms
+104.16.202.39,SJC,North America,San Jose,274 ms
+104.21.123.70,AMS,Europe,Amsterdam,274 ms
+104.21.36.11,AMS,Europe,Amsterdam,274 ms
+104.21.194.35,AMS,Europe,Amsterdam,274 ms
+104.16.16.222,SJC,North America,San Jose,274 ms
+172.67.145.188,AMS,Europe,Amsterdam,274 ms
+104.21.198.168,AMS,Europe,Amsterdam,274 ms
+104.18.75.225,SJC,North America,San Jose,274 ms
+104.21.122.170,AMS,Europe,Amsterdam,274 ms
+172.67.128.244,AMS,Europe,Amsterdam,274 ms
+104.16.73.111,SJC,North America,San Jose,274 ms
+198.41.204.140,SJC,North America,San Jose,274 ms
+172.67.185.178,AMS,Europe,Amsterdam,274 ms
+104.21.12.162,AMS,Europe,Amsterdam,274 ms
+104.21.72.226,AMS,Europe,Amsterdam,274 ms
+172.67.179.30,AMS,Europe,Amsterdam,274 ms
+104.21.106.100,AMS,Europe,Amsterdam,274 ms
+172.67.164.109,AMS,Europe,Amsterdam,274 ms
+172.67.212.156,AMS,Europe,Amsterdam,274 ms
+104.17.200.206,SJC,North America,San Jose,275 ms
+172.67.229.4,AMS,Europe,Amsterdam,275 ms
+104.21.26.184,AMS,Europe,Amsterdam,275 ms
+162.159.138.201,FRA,Europe,Frankfurt,275 ms
+188.114.99.89,AMS,Europe,Amsterdam,275 ms
+104.17.70.122,SJC,North America,San Jose,275 ms
+172.67.177.85,AMS,Europe,Amsterdam,275 ms
+104.16.204.225,SJC,North America,San Jose,275 ms
+104.21.211.108,AMS,Europe,Amsterdam,276 ms
+104.21.27.161,AMS,Europe,Amsterdam,276 ms
+104.21.30.156,AMS,Europe,Amsterdam,276 ms
+104.21.124.66,AMS,Europe,Amsterdam,276 ms
+104.21.41.44,AMS,Europe,Amsterdam,276 ms
+104.19.217.243,SJC,North America,San Jose,276 ms
+172.67.168.211,AMS,Europe,Amsterdam,276 ms
+104.21.40.83,AMS,Europe,Amsterdam,276 ms
+104.16.176.34,SJC,North America,San Jose,276 ms
+104.18.30.209,LAX,North America,Los Angeles,276 ms
+104.21.28.72,AMS,Europe,Amsterdam,277 ms
+172.65.49.88,AMS,Europe,Amsterdam,277 ms
+172.67.206.135,AMS,Europe,Amsterdam,277 ms
+172.67.159.132,AMS,Europe,Amsterdam,277 ms
+104.16.219.114,SJC,North America,San Jose,277 ms
+172.67.193.237,AMS,Europe,Amsterdam,277 ms
+104.17.170.43,SJC,North America,San Jose,277 ms
+172.67.182.63,AMS,Europe,Amsterdam,277 ms
+104.25.237.116,FRA,Europe,Frankfurt,277 ms
+172.67.139.80,AMS,Europe,Amsterdam,277 ms
+104.21.192.90,AMS,Europe,Amsterdam,277 ms
+172.67.239.87,AMS,Europe,Amsterdam,277 ms
+104.21.125.46,AMS,Europe,Amsterdam,278 ms
+104.21.100.96,AMS,Europe,Amsterdam,278 ms
+104.21.80.160,AMS,Europe,Amsterdam,278 ms
+104.17.96.210,SJC,North America,San Jose,278 ms
+198.41.222.152,SJC,North America,San Jose,278 ms
+104.19.63.45,SJC,North America,San Jose,278 ms
+104.21.207.243,AMS,Europe,Amsterdam,278 ms
+104.21.70.222,AMS,Europe,Amsterdam,278 ms
+172.67.163.194,AMS,Europe,Amsterdam,278 ms
+104.21.51.46,AMS,Europe,Amsterdam,278 ms
+104.21.34.13,AMS,Europe,Amsterdam,278 ms
+172.67.132.55,AMS,Europe,Amsterdam,278 ms
+104.16.201.146,SJC,North America,San Jose,279 ms
+172.67.243.27,AMS,Europe,Amsterdam,279 ms
+104.16.138.54,SJC,North America,San Jose,279 ms
+172.67.191.92,AMS,Europe,Amsterdam,279 ms
+104.24.254.197,FRA,Europe,Frankfurt,279 ms
+104.18.5.247,SJC,North America,San Jose,279 ms
+104.21.220.33,AMS,Europe,Amsterdam,279 ms
+104.19.19.228,SJC,North America,San Jose,279 ms
+104.21.29.52,AMS,Europe,Amsterdam,279 ms
+104.21.65.123,AMS,Europe,Amsterdam,279 ms
+172.67.171.228,AMS,Europe,Amsterdam,279 ms
+104.19.121.14,SJC,North America,San Jose,279 ms
+104.21.116.2,AMS,Europe,Amsterdam,280 ms
+172.67.199.193,AMS,Europe,Amsterdam,280 ms
+104.16.186.83,SJC,North America,San Jose,280 ms
+172.67.231.19,AMS,Europe,Amsterdam,280 ms
+104.21.82.49,AMS,Europe,Amsterdam,280 ms
+172.67.217.219,AMS,Europe,Amsterdam,280 ms
+172.67.158.127,AMS,Europe,Amsterdam,280 ms
+172.67.146.106,AMS,Europe,Amsterdam,280 ms
+104.21.217.36,AMS,Europe,Amsterdam,281 ms
+172.67.141.64,AMS,Europe,Amsterdam,281 ms
+104.21.58.91,AMS,Europe,Amsterdam,281 ms
+198.41.221.128,SJC,North America,San Jose,281 ms
+104.24.16.1,FRA,Europe,Frankfurt,281 ms
+104.21.67.68,AMS,Europe,Amsterdam,281 ms
+172.67.215.91,AMS,Europe,Amsterdam,281 ms
+104.19.229.26,SJC,North America,San Jose,281 ms
+104.16.142.8,SJC,North America,San Jose,281 ms
+104.19.33.90,SJC,North America,San Jose,281 ms
+104.21.62.226,AMS,Europe,Amsterdam,282 ms
+172.67.165.107,AMS,Europe,Amsterdam,282 ms
+104.17.182.187,SJC,North America,San Jose,283 ms
+172.67.245.198,AMS,Europe,Amsterdam,283 ms
+104.17.208.194,SJC,North America,San Jose,283 ms
+104.25.3.246,FRA,Europe,Frankfurt,283 ms
+104.21.98.80,AMS,Europe,Amsterdam,283 ms
+104.25.15.160,FRA,Europe,Frankfurt,283 ms
+104.18.243.217,SJC,North America,San Jose,283 ms
+104.17.201.255,SJC,North America,San Jose,283 ms
+172.67.152.154,AMS,Europe,Amsterdam,283 ms
+104.17.60.139,SJC,North America,San Jose,283 ms
+104.21.97.156,AMS,Europe,Amsterdam,284 ms
+104.19.31.83,SJC,North America,San Jose,284 ms
+104.17.6.127,SJC,North America,San Jose,284 ms
+104.19.213.92,SJC,North America,San Jose,284 ms
+172.67.200.217,AMS,Europe,Amsterdam,284 ms
+172.67.250.219,AMS,Europe,Amsterdam,284 ms
+104.17.187.100,SJC,North America,San Jose,284 ms
+104.21.33.158,AMS,Europe,Amsterdam,284 ms
+104.21.205.119,AMS,Europe,Amsterdam,284 ms
+172.67.214.174,AMS,Europe,Amsterdam,285 ms
+104.18.39.93,SJC,North America,San Jose,285 ms
+172.67.220.69,AMS,Europe,Amsterdam,285 ms
+104.21.118.11,AMS,Europe,Amsterdam,285 ms
+104.19.182.71,SJC,North America,San Jose,285 ms
+104.18.134.45,SJC,North America,San Jose,285 ms
+104.21.32.195,AMS,Europe,Amsterdam,285 ms
+104.24.41.206,FRA,Europe,Frankfurt,285 ms
+104.21.215.146,AMS,Europe,Amsterdam,286 ms
+172.67.170.23,AMS,Europe,Amsterdam,286 ms
+104.21.195.46,AMS,Europe,Amsterdam,287 ms
+104.21.199.38,AMS,Europe,Amsterdam,287 ms
+104.24.163.1,FRA,Europe,Frankfurt,287 ms
+172.67.148.125,AMS,Europe,Amsterdam,287 ms
+104.16.247.202,SJC,North America,San Jose,288 ms
+172.67.255.179,AMS,Europe,Amsterdam,288 ms
+172.67.210.52,AMS,Europe,Amsterdam,288 ms
+104.25.141.108,FRA,Europe,Frankfurt,288 ms
+104.17.239.147,SJC,North America,San Jose,288 ms
+172.67.143.133,AMS,Europe,Amsterdam,289 ms
+104.19.103.179,SJC,North America,San Jose,289 ms
+104.19.154.92,SJC,North America,San Jose,289 ms
+104.21.63.19,AMS,Europe,Amsterdam,289 ms
+104.19.14.202,SJC,North America,San Jose,289 ms
+172.67.252.50,AMS,Europe,Amsterdam,289 ms
+104.24.158.46,FRA,Europe,Frankfurt,289 ms
+104.16.254.7,SJC,North America,San Jose,289 ms
+104.17.76.45,SJC,North America,San Jose,290 ms
+104.21.201.198,AMS,Europe,Amsterdam,290 ms
+172.67.226.118,AMS,Europe,Amsterdam,290 ms
+104.27.97.70,FRA,Europe,Frankfurt,290 ms
+104.19.148.153,SJC,North America,San Jose,291 ms
+172.67.194.190,AMS,Europe,Amsterdam,291 ms
+104.19.192.78,SJC,North America,San Jose,291 ms
+172.66.41.128,SJC,North America,San Jose,292 ms
+104.19.82.222,SJC,North America,San Jose,292 ms
+104.19.62.52,SJC,North America,San Jose,292 ms
+104.18.183.102,SJC,North America,San Jose,292 ms
+104.21.81.178,AMS,Europe,Amsterdam,292 ms
+104.16.23.233,SJC,North America,San Jose,293 ms
+104.19.205.64,SJC,North America,San Jose,293 ms
+188.114.98.173,AMS,Europe,Amsterdam,293 ms
+172.67.216.61,AMS,Europe,Amsterdam,293 ms
+104.16.252.189,SJC,North America,San Jose,293 ms
+104.17.253.6,SJC,North America,San Jose,293 ms
+104.17.102.85,SJC,North America,San Jose,293 ms
+104.17.247.106,SJC,North America,San Jose,294 ms
+104.19.231.4,SJC,North America,San Jose,294 ms
+104.19.41.30,SJC,North America,San Jose,294 ms
+104.19.228.58,SJC,North America,San Jose,294 ms
+172.67.138.192,AMS,Europe,Amsterdam,294 ms
+104.17.71.46,SJC,North America,San Jose,294 ms
+104.17.214.83,SJC,North America,San Jose,294 ms
+104.18.136.47,SJC,North America,San Jose,294 ms
+172.67.237.75,AMS,Europe,Amsterdam,294 ms
+104.25.77.251,FRA,Europe,Frankfurt,294 ms
+104.25.87.34,FRA,Europe,Frankfurt,295 ms
+104.18.166.183,SJC,North America,San Jose,295 ms
+104.24.253.73,FRA,Europe,Frankfurt,295 ms
+172.67.173.198,AMS,Europe,Amsterdam,295 ms
+172.67.131.90,AMS,Europe,Amsterdam,295 ms
+172.67.253.247,AMS,Europe,Amsterdam,295 ms
+104.19.171.227,SJC,North America,San Jose,295 ms
+172.64.52.157,SJC,North America,San Jose,295 ms
+104.21.50.53,AMS,Europe,Amsterdam,295 ms
+104.16.222.254,SJC,North America,San Jose,296 ms
+104.17.94.36,SJC,North America,San Jose,296 ms
+104.21.2.24,AMS,Europe,Amsterdam,296 ms
+104.17.11.46,SJC,North America,San Jose,296 ms
+188.114.97.95,AMS,Europe,Amsterdam,296 ms
+104.24.201.156,FRA,Europe,Frankfurt,296 ms
+104.17.237.72,SJC,North America,San Jose,296 ms
+104.19.38.51,SJC,North America,San Jose,296 ms
+104.25.19.25,FRA,Europe,Frankfurt,296 ms
+104.21.110.145,AMS,Europe,Amsterdam,297 ms
+104.19.24.79,SJC,North America,San Jose,297 ms
+104.18.15.87,SJC,North America,San Jose,297 ms
+104.17.245.65,SJC,North America,San Jose,298 ms
+104.21.15.49,AMS,Europe,Amsterdam,298 ms
+172.67.154.159,AMS,Europe,Amsterdam,298 ms
+104.24.0.102,FRA,Europe,Frankfurt,298 ms
+104.17.162.118,SJC,North America,San Jose,299 ms
+188.114.96.124,AMS,Europe,Amsterdam,300 ms
+104.16.62.91,SJC,North America,San Jose,300 ms
+104.16.12.30,SJC,North America,San Jose,300 ms
+104.17.233.1,SJC,North America,San Jose,301 ms
+104.17.24.78,SJC,North America,San Jose,301 ms
+104.18.0.38,SJC,North America,San Jose,301 ms
+104.16.70.120,SJC,North America,San Jose,301 ms
+104.24.186.225,FRA,Europe,Frankfurt,302 ms
+104.25.25.53,FRA,Europe,Frankfurt,302 ms
+104.21.111.83,AMS,Europe,Amsterdam,303 ms
+104.25.79.187,FRA,Europe,Frankfurt,303 ms
+104.19.99.5,SJC,North America,San Jose,303 ms
+104.24.162.44,FRA,Europe,Frankfurt,303 ms
+162.159.48.221,SJC,North America,San Jose,304 ms
+104.16.151.115,SJC,North America,San Jose,304 ms
+104.17.30.105,SJC,North America,San Jose,305 ms
+104.21.3.169,AMS,Europe,Amsterdam,305 ms
+104.21.229.125,SJC,North America,San Jose,306 ms
+104.21.104.146,AMS,Europe,Amsterdam,306 ms
+104.18.219.231,SJC,North America,San Jose,306 ms
+104.24.43.246,FRA,Europe,Frankfurt,306 ms
+104.17.112.185,SJC,North America,San Jose,306 ms
+104.17.149.129,SJC,North America,San Jose,307 ms
+104.17.195.97,SJC,North America,San Jose,307 ms
+104.17.58.232,SJC,North America,San Jose,307 ms
+104.21.56.147,AMS,Europe,Amsterdam,307 ms
+104.17.127.0,SJC,North America,San Jose,307 ms
+104.18.13.92,SJC,North America,San Jose,307 ms
+104.21.23.75,AMS,Europe,Amsterdam,307 ms
+104.17.29.162,SJC,North America,San Jose,308 ms
+104.19.253.125,LAX,North America,Los Angeles,309 ms
+104.16.224.73,SJC,North America,San Jose,309 ms
+104.17.62.212,SJC,North America,San Jose,309 ms
+104.17.115.196,SJC,North America,San Jose,309 ms
+104.17.190.227,SJC,North America,San Jose,309 ms
+104.19.186.31,SJC,North America,San Jose,309 ms
+104.17.63.58,SJC,North America,San Jose,310 ms
+172.67.223.218,AMS,Europe,Amsterdam,310 ms
+104.21.114.112,AMS,Europe,Amsterdam,310 ms
+104.18.44.36,SJC,North America,San Jose,311 ms
+104.18.97.29,SJC,North America,San Jose,312 ms
+172.67.192.12,AMS,Europe,Amsterdam,312 ms
+104.21.73.139,AMS,Europe,Amsterdam,312 ms
+104.21.66.114,AMS,Europe,Amsterdam,312 ms
+172.64.145.167,SJC,North America,San Jose,312 ms
+104.19.51.26,SJC,North America,San Jose,313 ms
+104.16.246.145,SJC,North America,San Jose,313 ms
+104.17.38.103,SJC,North America,San Jose,314 ms
+104.27.93.167,FRA,Europe,Frankfurt,314 ms
+104.19.40.1,SJC,North America,San Jose,314 ms
+104.16.36.146,SJC,North America,San Jose,315 ms
+104.16.66.154,SJC,North America,San Jose,315 ms
+104.21.7.159,AMS,Europe,Amsterdam,315 ms
+104.25.30.229,FRA,Europe,Frankfurt,315 ms
+104.21.79.101,AMS,Europe,Amsterdam,316 ms
+104.18.178.152,SJC,North America,San Jose,316 ms
+104.16.3.102,SJC,North America,San Jose,316 ms
+104.21.22.196,AMS,Europe,Amsterdam,317 ms
+104.19.209.220,SJC,North America,San Jose,319 ms
+104.24.55.146,FRA,Europe,Frankfurt,320 ms
+104.16.244.154,SJC,North America,San Jose,320 ms
+104.16.43.78,SJC,North America,San Jose,320 ms
+104.21.64.4,AMS,Europe,Amsterdam,320 ms
+104.19.29.93,SJC,North America,San Jose,321 ms
+104.21.99.37,AMS,Europe,Amsterdam,321 ms
+104.21.204.13,AMS,Europe,Amsterdam,322 ms
+104.17.7.239,SJC,North America,San Jose,322 ms
+104.18.182.97,SJC,North America,San Jose,322 ms
+104.21.78.24,AMS,Europe,Amsterdam,323 ms
+104.18.218.64,SJC,North America,San Jose,323 ms
+104.17.132.59,SJC,North America,San Jose,323 ms
+104.18.236.15,SJC,North America,San Jose,324 ms
+104.18.84.196,SJC,North America,San Jose,324 ms
+104.17.218.31,SJC,North America,San Jose,324 ms
+104.18.158.202,SJC,North America,San Jose,325 ms
+104.27.118.157,FRA,Europe,Frankfurt,325 ms
+104.18.241.127,SJC,North America,San Jose,325 ms
+104.17.139.215,SJC,North America,San Jose,325 ms
+104.18.192.79,SJC,North America,San Jose,326 ms
+104.21.46.131,AMS,Europe,Amsterdam,327 ms
+104.17.59.245,SJC,North America,San Jose,327 ms
+104.17.230.207,SJC,North America,San Jose,328 ms
+104.16.194.71,SJC,North America,San Jose,328 ms
+104.16.164.107,SJC,North America,San Jose,330 ms
+172.67.233.180,AMS,Europe,Amsterdam,331 ms
+104.16.168.249,SJC,North America,San Jose,331 ms
+104.17.31.27,SJC,North America,San Jose,332 ms
+104.18.223.65,SJC,North America,San Jose,332 ms
+104.19.95.233,SJC,North America,San Jose,333 ms
+104.19.25.107,SJC,North America,San Jose,333 ms
+162.159.2.125,SJC,North America,San Jose,334 ms
+104.17.255.220,SJC,North America,San Jose,335 ms
+104.18.94.121,SJC,North America,San Jose,337 ms
+104.19.2.211,SJC,North America,San Jose,337 ms
+172.64.95.64,SJC,North America,San Jose,338 ms
+104.16.171.122,SJC,North America,San Jose,338 ms
+104.17.136.60,SJC,North America,San Jose,338 ms
+104.19.36.51,SJC,North America,San Jose,339 ms
+104.19.71.220,SJC,North America,San Jose,340 ms
+104.19.102.90,SJC,North America,San Jose,340 ms
+172.64.94.108,SJC,North America,San Jose,340 ms
+104.19.109.203,SJC,North America,San Jose,341 ms
+104.19.115.70,SJC,North America,San Jose,341 ms
+104.17.116.188,SJC,North America,San Jose,341 ms
+104.19.113.160,SJC,North America,San Jose,341 ms
+104.24.7.150,FRA,Europe,Frankfurt,342 ms
+104.17.48.227,SJC,North America,San Jose,342 ms
+104.19.158.178,SJC,North America,San Jose,343 ms
+104.16.67.38,SJC,North America,San Jose,344 ms
+104.17.66.113,SJC,North America,San Jose,344 ms
+104.17.153.108,SJC,North America,San Jose,345 ms
+104.19.47.91,SJC,North America,San Jose,345 ms
+162.159.62.189,SJC,North America,San Jose,345 ms
+104.17.202.36,SJC,North America,San Jose,346 ms
+104.16.97.41,SJC,North America,San Jose,346 ms
+1.0.0.137,SJC,North America,San Jose,346 ms
+104.19.13.214,SJC,North America,San Jose,347 ms
+104.19.191.40,SJC,North America,San Jose,348 ms
+104.16.35.116,SJC,North America,San Jose,349 ms
+198.41.207.89,SJC,North America,San Jose,349 ms
+104.19.87.49,SJC,North America,San Jose,350 ms
+104.17.135.181,SJC,North America,San Jose,350 ms
+104.17.57.168,SJC,North America,San Jose,351 ms
+172.64.42.186,SJC,North America,San Jose,351 ms
+104.19.117.151,SJC,North America,San Jose,351 ms
+104.19.78.118,SJC,North America,San Jose,352 ms
+104.16.239.203,SJC,North America,San Jose,352 ms
+104.19.16.208,SJC,North America,San Jose,352 ms
+104.19.201.115,SJC,North America,San Jose,352 ms
+104.21.223.175,AMS,Europe,Amsterdam,352 ms
+172.64.155.56,SJC,North America,San Jose,353 ms
+172.65.232.33,SJC,North America,San Jose,353 ms
+104.19.37.230,SJC,North America,San Jose,354 ms
+162.159.8.158,SJC,North America,San Jose,354 ms
+198.41.193.224,SJC,North America,San Jose,354 ms
+104.19.176.108,SJC,North America,San Jose,356 ms
+104.16.177.244,SJC,North America,San Jose,356 ms
+104.16.217.250,SJC,North America,San Jose,356 ms
+104.17.137.185,SJC,North America,San Jose,357 ms
+104.17.163.225,SJC,North America,San Jose,357 ms
+104.19.1.10,SJC,North America,San Jose,358 ms
+172.67.189.36,AMS,Europe,Amsterdam,358 ms
+104.17.188.37,SJC,North America,San Jose,358 ms
+104.18.11.180,SJC,North America,San Jose,358 ms
+104.16.19.35,SJC,North America,San Jose,358 ms
+104.16.221.59,SJC,North America,San Jose,359 ms
+104.17.84.151,SJC,North America,San Jose,359 ms
+104.16.165.48,SJC,North America,San Jose,359 ms
+104.18.129.80,SJC,North America,San Jose,359 ms
+104.17.160.190,SJC,North America,San Jose,360 ms
+104.24.197.143,FRA,Europe,Frankfurt,360 ms
+104.17.231.81,SJC,North America,San Jose,361 ms
+104.19.84.223,SJC,North America,San Jose,361 ms
+104.21.17.120,AMS,Europe,Amsterdam,361 ms
+104.17.79.193,SJC,North America,San Jose,361 ms
+104.18.187.138,SJC,North America,San Jose,361 ms
+172.64.148.150,SJC,North America,San Jose,362 ms
+104.19.197.5,SJC,North America,San Jose,362 ms
+104.18.148.13,SJC,North America,San Jose,362 ms
+104.18.96.200,SJC,North America,San Jose,362 ms
+162.159.36.170,SJC,North America,San Jose,362 ms
+104.16.229.226,SJC,North America,San Jose,363 ms
+172.64.88.230,SJC,North America,San Jose,363 ms
+162.159.24.37,SJC,North America,San Jose,363 ms
+104.17.215.59,SJC,North America,San Jose,364 ms
+104.19.226.191,SJC,North America,San Jose,364 ms
+104.16.57.47,SJC,North America,San Jose,365 ms
+104.17.142.39,SJC,North America,San Jose,365 ms
+104.18.71.32,SJC,North America,San Jose,365 ms
+104.18.172.127,SJC,North America,San Jose,365 ms
+104.16.179.150,SJC,North America,San Jose,366 ms
+104.18.34.253,SJC,North America,San Jose,366 ms
+104.21.55.237,AMS,Europe,Amsterdam,366 ms
+104.25.89.74,FRA,Europe,Frankfurt,367 ms
+104.18.65.181,SJC,North America,San Jose,368 ms
+104.16.160.127,SJC,North America,San Jose,369 ms
+162.159.40.83,SJC,North America,San Jose,369 ms
+190.93.247.106,SJC,North America,San Jose,369 ms
+104.18.171.42,SJC,North America,San Jose,369 ms
+104.18.161.150,SJC,North America,San Jose,369 ms
+162.159.3.101,SJC,North America,San Jose,370 ms
+104.17.242.65,SJC,North America,San Jose,370 ms
+104.16.188.219,SJC,North America,San Jose,371 ms
+104.19.155.96,SJC,North America,San Jose,371 ms
+104.16.30.212,SJC,North America,San Jose,372 ms
+104.18.179.78,SJC,North America,San Jose,372 ms
+104.16.198.207,SJC,North America,San Jose,372 ms
+104.16.238.243,SJC,North America,San Jose,373 ms
+104.19.223.30,SJC,North America,San Jose,373 ms
+104.17.183.129,SJC,North America,San Jose,374 ms
+104.19.165.135,SJC,North America,San Jose,374 ms
+104.16.46.247,SJC,North America,San Jose,374 ms
+172.64.33.88,SJC,North America,San Jose,375 ms
+172.65.254.199,SJC,North America,San Jose,375 ms
+104.16.185.109,SJC,North America,San Jose,376 ms
+104.19.159.40,SJC,North America,San Jose,376 ms
+104.18.151.7,SJC,North America,San Jose,376 ms
+104.16.47.223,SJC,North America,San Jose,376 ms
+104.17.212.195,SJC,North America,San Jose,376 ms
+172.65.252.13,CDG,Europe,Paris,376 ms
+198.41.200.98,SJC,North America,San Jose,376 ms
+162.159.6.176,SJC,North America,San Jose,376 ms
+104.16.250.152,SJC,North America,San Jose,377 ms
+104.19.118.8,SJC,North America,San Jose,377 ms
+104.16.54.151,SJC,North America,San Jose,377 ms
+104.18.138.212,SJC,North America,San Jose,377 ms
+104.16.139.175,SJC,North America,San Jose,377 ms
+104.17.110.124,SJC,North America,San Jose,378 ms
+104.18.35.10,SJC,North America,San Jose,378 ms
+104.16.167.152,SJC,North America,San Jose,379 ms
+104.16.218.144,SJC,North America,San Jose,379 ms
+104.16.137.126,SJC,North America,San Jose,379 ms
+104.18.141.119,SJC,North America,San Jose,380 ms
+104.19.178.76,SJC,North America,San Jose,380 ms
+172.65.219.16,FRA,Europe,Frankfurt,380 ms
+172.66.42.106,SJC,North America,San Jose,381 ms
+104.18.77.91,SJC,North America,San Jose,381 ms
+104.18.226.220,SJC,North America,San Jose,381 ms
+104.18.221.140,SJC,North America,San Jose,381 ms
+172.64.50.109,SJC,North America,San Jose,381 ms
+104.17.46.182,SJC,North America,San Jose,381 ms
+104.18.232.185,SJC,North America,San Jose,381 ms
+104.18.69.202,SJC,North America,San Jose,381 ms
+104.17.146.149,SJC,North America,San Jose,382 ms
+104.16.155.134,SJC,North America,San Jose,382 ms
+104.19.233.24,SJC,North America,San Jose,382 ms
+104.19.173.11,SJC,North America,San Jose,383 ms
+104.17.241.156,SJC,North America,San Jose,383 ms
+104.17.32.255,SJC,North America,San Jose,383 ms
+104.18.130.129,SJC,North America,San Jose,384 ms
+104.17.100.146,SJC,North America,San Jose,384 ms
+104.16.251.129,SJC,North America,San Jose,384 ms
+104.19.202.45,SJC,North America,San Jose,385 ms
+104.18.149.211,SJC,North America,San Jose,385 ms
+104.17.114.141,SJC,North America,San Jose,385 ms
+104.17.175.38,SJC,North America,San Jose,385 ms
+104.16.133.220,SJC,North America,San Jose,386 ms
+104.17.81.194,SJC,North America,San Jose,386 ms
+198.41.216.82,SJC,North America,San Jose,386 ms
+104.18.224.29,SJC,North America,San Jose,386 ms
+104.16.60.64,SJC,North America,San Jose,387 ms
+104.19.222.254,SJC,North America,San Jose,387 ms
+104.18.72.231,SJC,North America,San Jose,387 ms
+104.18.244.86,SJC,North America,San Jose,387 ms
+172.64.38.146,SJC,North America,San Jose,387 ms
+104.17.0.136,SJC,North America,San Jose,388 ms
+172.67.242.32,AMS,Europe,Amsterdam,389 ms
+104.18.38.161,SJC,North America,San Jose,389 ms
+104.16.183.196,SJC,North America,San Jose,389 ms
+104.16.157.205,SJC,North America,San Jose,389 ms
+104.17.44.117,SJC,North America,San Jose,389 ms
+104.17.90.163,SJC,North America,San Jose,389 ms
+104.18.199.53,SJC,North America,San Jose,389 ms
+104.18.216.105,SJC,North America,San Jose,389 ms
+104.17.179.161,SJC,North America,San Jose,389 ms
+104.16.82.2,SJC,North America,San Jose,389 ms
+104.21.54.144,AMS,Europe,Amsterdam,390 ms
+104.18.68.96,SJC,North America,San Jose,390 ms
+104.18.8.24,SJC,North America,San Jose,390 ms
+104.17.123.4,SJC,North America,San Jose,391 ms
+104.18.78.97,SJC,North America,San Jose,392 ms
+104.17.37.58,SJC,North America,San Jose,392 ms
+104.17.165.195,SJC,North America,San Jose,392 ms
+104.19.237.16,SJC,North America,San Jose,392 ms
+104.17.9.28,SJC,North America,San Jose,392 ms
+104.17.19.98,SJC,North America,San Jose,392 ms
+104.17.14.41,SJC,North America,San Jose,393 ms
+198.41.194.47,SJC,North America,San Jose,393 ms
+104.17.56.161,SJC,North America,San Jose,393 ms
+104.18.80.191,SJC,North America,San Jose,393 ms
+104.17.211.6,SJC,North America,San Jose,394 ms
+104.17.119.210,SJC,North America,San Jose,394 ms
+104.18.6.14,SJC,North America,San Jose,394 ms
+104.19.45.24,SJC,North America,San Jose,394 ms
+104.16.34.150,SJC,North America,San Jose,394 ms
+104.17.177.108,SJC,North America,San Jose,394 ms
+104.17.145.7,SJC,North America,San Jose,395 ms
+172.66.44.195,SJC,North America,San Jose,395 ms
+104.16.253.215,SJC,North America,San Jose,395 ms
+104.18.4.195,SJC,North America,San Jose,396 ms
+104.19.238.77,SJC,North America,San Jose,396 ms
+198.41.209.115,SJC,North America,San Jose,396 ms
+172.64.34.33,SJC,North America,San Jose,396 ms
+104.18.47.39,SJC,North America,San Jose,396 ms
+104.16.5.35,SJC,North America,San Jose,397 ms
+104.17.216.188,SJC,North America,San Jose,397 ms
+104.16.212.28,SJC,North America,San Jose,398 ms
+104.17.65.246,SJC,North America,San Jose,398 ms
+104.16.210.39,SJC,North America,San Jose,398 ms
+172.65.205.240,CDG,Europe,Paris,398 ms
+104.17.128.237,SJC,North America,San Jose,398 ms
+104.16.240.7,SJC,North America,San Jose,399 ms
+103.21.244.188,SJC,North America,San Jose,399 ms
+104.16.136.3,SJC,North America,San Jose,399 ms
+104.23.142.11,FRA,Europe,Frankfurt,399 ms
+104.18.99.34,SJC,North America,San Jose,399 ms
+162.159.16.249,SJC,North America,San Jose,399 ms
+104.18.64.99,SJC,North America,San Jose,399 ms
+104.18.83.223,SJC,North America,San Jose,399 ms
+104.18.240.143,SJC,North America,San Jose,400 ms
+104.18.108.204,SJC,North America,San Jose,400 ms
+104.18.128.210,SJC,North America,San Jose,400 ms
+104.18.111.2,SJC,North America,San Jose,401 ms
+172.64.81.191,SJC,North America,San Jose,401 ms
+104.18.245.96,SJC,North America,San Jose,401 ms
+190.93.246.96,SJC,North America,San Jose,401 ms
+104.17.168.240,SJC,North America,San Jose,401 ms
+104.21.39.10,AMS,Europe,Amsterdam,401 ms
+104.25.33.170,FRA,Europe,Frankfurt,402 ms
+104.16.4.74,SJC,North America,San Jose,402 ms
+172.66.3.28,SJC,North America,San Jose,402 ms
+104.17.148.15,SJC,North America,San Jose,403 ms
+104.17.206.143,SJC,North America,San Jose,403 ms
+104.17.69.183,SJC,North America,San Jose,403 ms
+104.19.169.227,SJC,North America,San Jose,403 ms
+104.19.156.120,SJC,North America,San Jose,403 ms
+104.18.146.70,SJC,North America,San Jose,403 ms
+104.17.17.225,SJC,North America,San Jose,403 ms
+104.18.210.55,SJC,North America,San Jose,404 ms
+104.19.224.247,SJC,North America,San Jose,404 ms
+104.19.208.94,SJC,North America,San Jose,404 ms
+104.18.186.211,SJC,North America,San Jose,405 ms
+104.16.154.45,SJC,North America,San Jose,405 ms
+104.16.134.131,SJC,North America,San Jose,405 ms
+104.18.213.253,SJC,North America,San Jose,405 ms
+104.17.167.218,SJC,North America,San Jose,405 ms
+1.1.1.40,SJC,North America,San Jose,406 ms
+108.162.198.172,SJC,North America,San Jose,406 ms
+104.17.118.162,SJC,North America,San Jose,406 ms
+198.217.251.14,SJC,North America,San Jose,406 ms
+162.159.10.163,SJC,North America,San Jose,406 ms
+104.17.87.191,SJC,North America,San Jose,406 ms
+104.19.151.206,SJC,North America,San Jose,407 ms
+104.17.155.246,SJC,North America,San Jose,407 ms
+104.19.83.103,SJC,North America,San Jose,407 ms
+185.146.173.92,SJC,North America,San Jose,407 ms
+104.17.254.108,SJC,North America,San Jose,408 ms
+104.17.138.175,SJC,North America,San Jose,408 ms
+104.18.211.1,SJC,North America,San Jose,408 ms
+198.41.223.40,SJC,North America,San Jose,408 ms
+104.16.40.143,SJC,North America,San Jose,408 ms
+104.17.113.13,SJC,North America,San Jose,408 ms
+162.159.46.205,SJC,North America,San Jose,408 ms
+172.64.150.25,SJC,North America,San Jose,408 ms
+104.18.154.182,SJC,North America,San Jose,408 ms
+104.16.143.32,SJC,North America,San Jose,409 ms
+104.17.204.95,SJC,North America,San Jose,409 ms
+104.17.45.219,SJC,North America,San Jose,409 ms
+104.16.163.54,SJC,North America,San Jose,409 ms
+198.41.217.191,SJC,North America,San Jose,409 ms
+104.16.145.210,SJC,North America,San Jose,409 ms
+104.19.193.55,SJC,North America,San Jose,409 ms
+104.17.49.80,SJC,North America,San Jose,409 ms
+198.41.202.142,SJC,North America,San Jose,410 ms
+104.16.205.221,SJC,North America,San Jose,410 ms
+104.16.111.144,SJC,North America,San Jose,410 ms
+104.17.244.214,SJC,North America,San Jose,411 ms
+104.18.144.227,SJC,North America,San Jose,411 ms
+104.16.131.145,SJC,North America,San Jose,411 ms
+104.18.107.194,SJC,North America,San Jose,411 ms
+104.17.251.108,SJC,North America,San Jose,412 ms
+104.19.153.23,SJC,North America,San Jose,412 ms
+162.159.20.88,SJC,North America,San Jose,412 ms
+104.16.173.246,SJC,North America,San Jose,412 ms
+162.159.5.17,SJC,North America,San Jose,412 ms
+141.101.115.29,SJC,North America,San Jose,412 ms
+172.64.157.177,SJC,North America,San Jose,412 ms
+104.17.143.192,SJC,North America,San Jose,412 ms
+104.16.86.96,SJC,North America,San Jose,412 ms
+104.16.56.244,SJC,North America,San Jose,413 ms
+104.17.43.163,SJC,North America,San Jose,413 ms
+104.17.185.122,SJC,North America,San Jose,414 ms
+104.19.166.2,SJC,North America,San Jose,414 ms
+104.17.109.70,SJC,North America,San Jose,414 ms
+162.159.49.106,SJC,North America,San Jose,415 ms
+104.16.80.9,SJC,North America,San Jose,415 ms
+104.18.32.202,SJC,North America,San Jose,416 ms
+104.16.68.207,SJC,North America,San Jose,416 ms
+104.17.107.107,SJC,North America,San Jose,416 ms
+104.16.225.59,SJC,North America,San Jose,416 ms
+104.18.85.107,SJC,North America,San Jose,416 ms
+104.16.85.206,SJC,North America,San Jose,416 ms
+104.16.108.188,SJC,North America,San Jose,416 ms
+104.16.243.40,SJC,North America,San Jose,417 ms
+104.19.210.208,SJC,North America,San Jose,417 ms
+104.18.66.205,SJC,North America,San Jose,417 ms
+104.17.186.83,SJC,North America,San Jose,417 ms
+198.41.208.225,SJC,North America,San Jose,419 ms
+104.17.194.98,SJC,North America,San Jose,420 ms
+108.162.195.146,SJC,North America,San Jose,420 ms
+104.17.53.121,SJC,North America,San Jose,420 ms
+104.17.75.157,SJC,North America,San Jose,420 ms
+104.19.177.206,SJC,North America,San Jose,421 ms
+162.159.32.155,SJC,North America,San Jose,421 ms
+173.245.58.185,SJC,North America,San Jose,422 ms
+104.18.153.2,SJC,North America,San Jose,422 ms
+104.17.180.135,SJC,North America,San Jose,422 ms
+104.16.161.81,SJC,North America,San Jose,422 ms
+104.19.194.70,SJC,North America,San Jose,422 ms
+104.17.78.254,SJC,North America,San Jose,423 ms
+162.159.26.226,SJC,North America,San Jose,423 ms
+104.16.156.241,SJC,North America,San Jose,423 ms
+104.16.162.247,SJC,North America,San Jose,423 ms
+172.64.153.107,SJC,North America,San Jose,423 ms
+104.17.80.182,SJC,North America,San Jose,424 ms
+104.17.226.158,SJC,North America,San Jose,424 ms
+104.17.171.13,SJC,North America,San Jose,424 ms
+104.17.141.231,SJC,North America,San Jose,424 ms
+104.16.48.192,SJC,North America,San Jose,424 ms
+104.16.191.232,SJC,North America,San Jose,424 ms
+172.66.46.9,SJC,North America,San Jose,425 ms
+23.227.38.45,SJC,North America,San Jose,425 ms
+104.18.14.210,SJC,North America,San Jose,425 ms
+104.16.45.8,SJC,North America,San Jose,425 ms
+104.16.81.75,SJC,North America,San Jose,425 ms
+104.16.169.6,SJC,North America,San Jose,425 ms
+104.17.157.140,SJC,North America,San Jose,425 ms
+104.19.101.67,SJC,North America,San Jose,425 ms
+104.17.52.46,SJC,North America,San Jose,426 ms
+104.17.95.248,SJC,North America,San Jose,426 ms
+104.18.202.153,SJC,North America,San Jose,426 ms
+104.17.240.19,SJC,North America,San Jose,426 ms
+104.16.64.130,SJC,North America,San Jose,427 ms
+104.17.40.140,SJC,North America,San Jose,427 ms
+108.162.193.127,SJC,North America,San Jose,427 ms
+104.16.234.24,SJC,North America,San Jose,427 ms
+104.16.25.31,SJC,North America,San Jose,427 ms
+104.21.214.120,AMS,Europe,Amsterdam,427 ms
+198.41.199.161,SJC,North America,San Jose,428 ms
+104.16.49.227,SJC,North America,San Jose,428 ms
+104.19.181.67,SJC,North America,San Jose,429 ms
+104.19.152.219,SJC,North America,San Jose,429 ms
+104.16.79.201,SJC,North America,San Jose,429 ms
+104.19.160.252,SJC,North America,San Jose,429 ms
+104.18.189.208,SJC,North America,San Jose,429 ms
+104.18.150.143,SJC,North America,San Jose,430 ms
+104.18.92.161,SJC,North America,San Jose,430 ms
+104.18.207.60,SJC,North America,San Jose,431 ms
+104.18.79.187,SJC,North America,San Jose,431 ms
+104.17.85.251,SJC,North America,San Jose,432 ms
+104.19.211.80,SJC,North America,San Jose,432 ms
+198.41.192.115,SJC,North America,San Jose,432 ms
+104.18.110.77,SJC,North America,San Jose,432 ms
+104.17.122.28,SJC,North America,San Jose,433 ms
+172.66.1.45,SJC,North America,San Jose,434 ms
+104.16.51.139,SJC,North America,San Jose,434 ms
+104.16.11.8,SJC,North America,San Jose,435 ms
+104.17.222.176,SJC,North America,San Jose,435 ms
+23.227.39.43,SJC,North America,San Jose,436 ms
+162.159.15.58,SJC,North America,San Jose,436 ms
+104.17.121.134,SJC,North America,San Jose,437 ms
+104.16.31.71,SJC,North America,San Jose,437 ms
+104.16.175.195,SJC,North America,San Jose,438 ms
+104.17.99.132,SJC,North America,San Jose,439 ms
+104.17.83.182,SJC,North America,San Jose,439 ms
+104.17.203.3,SJC,North America,San Jose,440 ms
+104.16.75.138,SJC,North America,San Jose,440 ms
+104.19.220.216,SJC,North America,San Jose,441 ms
+104.16.26.21,SJC,North America,San Jose,441 ms
+104.18.89.150,SJC,North America,San Jose,442 ms
+104.17.2.41,SJC,North America,San Jose,442 ms
+104.16.78.196,SJC,North America,San Jose,443 ms
+104.18.33.193,SJC,North America,San Jose,444 ms
+104.17.72.218,SJC,North America,San Jose,445 ms
+104.17.106.97,SJC,North America,San Jose,446 ms
+104.17.207.152,SJC,North America,San Jose,446 ms
+104.18.105.97,SJC,North America,San Jose,447 ms
+104.21.213.219,AMS,Europe,Amsterdam,447 ms
+104.16.95.229,SJC,North America,San Jose,448 ms
+104.18.212.6,SJC,North America,San Jose,449 ms
+104.16.159.71,SJC,North America,San Jose,450 ms
+104.18.41.17,SJC,North America,San Jose,450 ms
+104.16.90.209,SJC,North America,San Jose,450 ms
+104.17.191.20,SJC,North America,San Jose,450 ms
+104.16.29.144,SJC,North America,San Jose,451 ms
+104.18.203.16,SJC,North America,San Jose,452 ms
+104.17.196.41,SJC,North America,San Jose,455 ms
+104.16.255.117,SJC,North America,San Jose,459 ms
+104.18.67.35,SJC,North America,San Jose,461 ms
+162.159.22.219,SJC,North America,San Jose,462 ms
+104.24.39.149,FRA,Europe,Frankfurt,462 ms
+104.18.102.228,SJC,North America,San Jose,462 ms
+104.18.234.176,SJC,North America,San Jose,466 ms
+104.25.152.156,FRA,Europe,Frankfurt,467 ms
+141.101.114.27,SJC,North America,San Jose,475 ms
+104.19.6.217,SJC,North America,San Jose,476 ms
+104.18.55.66,SJC,North America,San Jose,479 ms
+104.17.50.165,SJC,North America,San Jose,483 ms
+104.18.37.222,SJC,North America,San Jose,484 ms
+104.17.125.199,SJC,North America,San Jose,490 ms
+104.18.93.75,SJC,North America,San Jose,496 ms
+104.16.105.84,SJC,North America,San Jose,507 ms
+104.17.41.27,SJC,North America,San Jose,508 ms
+104.17.88.151,SJC,North America,San Jose,510 ms
+104.19.123.7,SJC,North America,San Jose,529 ms
+104.19.52.174,SJC,North America,San Jose,533 ms
+104.19.122.116,SJC,North America,San Jose,534 ms
+104.16.24.52,SJC,North America,San Jose,538 ms
+104.16.150.213,SJC,North America,San Jose,540 ms
+104.19.106.197,SJC,North America,San Jose,546 ms
+104.18.61.171,SJC,North America,San Jose,555 ms
+104.21.224.108,SJC,North America,San Jose,559 ms
+104.24.44.121,FRA,Europe,Frankfurt,580 ms
+104.18.12.139,SJC,North America,San Jose,583 ms
+104.18.63.250,SJC,North America,San Jose,616 ms
+104.18.52.79,SJC,North America,San Jose,636 ms
+104.18.57.168,SJC,North America,San Jose,744 ms
+104.18.62.109,SJC,North America,San Jose,882 ms
+104.18.49.107,SJC,North America,San Jose,920 ms

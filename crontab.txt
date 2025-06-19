@@ -1,0 +1,3 @@
+# 每日 18:00:00 执行更新节点，更新缓存文件
+0 18 * * * cd /openwrt.bak/docker-workspace/docker-arch-subs/subs-check/subs-update-duplicate && echo > ./subs-update-duplicate.log && chmod -v a+x subs-update-duplicate.sh && nohup ./subs-update-duplicate.sh > ./subs-update-duplicate.log 2>&1 & disown 
+0 18 * * * cd /openwrt.bak/docker-workspace/docker-arch-subs/subconverter && echo > ./make_cachefile.log && chmod -v a+x make_cachefile.sh && nohup ./make_cachefile.sh > ./make_cachefile.log 2>&1 & disown
