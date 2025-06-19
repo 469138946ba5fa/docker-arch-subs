@@ -4,6 +4,17 @@ docker multi-arch 本项目通过 Docker 组合了多架构的节点处理,去�
 # 说明记录，防止忘记，你可能需要亿点点想象力
 目前观察发现，这个结构很稳定，也比较贴近于目前流行的节点处理工具，当然我也这么了很久，唉，人生就那点时间，真是浪费生命
 
+![1](images/1.png)
+
+![Watchers](https://img.shields.io/github/watchers/469138946ba5fa/docker-arch-subs) ![Stars](https://img.shields.io/github/stars/469138946ba5fa/docker-arch-subs) ![Forks](https://img.shields.io/github/forks/469138946ba5fa/docker-arch-subs) ![Vistors](https://visitor-badge.laobi.icu/badge?page_id=469138946ba5fa.docker-arch-subs) ![LICENSE](https://img.shields.io/badge/license-CC%20BY--SA%204.0-green.svg)
+<a href="https://star-history.com/#469138946ba5fa/docker-arch-subs&Date">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/svg?repos=469138946ba5fa/docker-arch-subs&type=Date&theme=dark" />
+    <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/svg?repos=469138946ba5fa/docker-arch-subs&type=Date" />
+    <img alt="Star History Chart" src="https://api.star-history.com/svg?repos=469138946ba5fa/docker-arch-subs&type=Date" />
+  </picture>
+</a>
+
 0. 当前目录结构
     ```plaintext
     .
