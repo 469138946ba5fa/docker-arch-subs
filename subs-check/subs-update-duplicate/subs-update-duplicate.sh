@@ -7,6 +7,7 @@ curl -I www.google.com
 python update-json-v1.0.py
 python duplicate-data-v3.0.py
 cat ../config/config.yaml
+cp -fv sub_list.json sub_list.json.bak
 
 unset HTTP_PROXY HTTPS_PROXY ALL_PROXY http_proxy https_proxy all_proxy
 
